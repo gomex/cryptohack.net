@@ -2,3 +2,6 @@ baseurl: https://cryptohack.net/
 languageCode: en-us
 title: cryptohack
 canonifyurls: true
+
+params:
+  logo: /images/cryptofist.png
