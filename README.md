@@ -6,7 +6,7 @@ To install:
 
 To build site in watch mode:
 
-    hugo serve --buildDrafts --theme=hugo-zen --watch
+    hugo server --buildDrafts --theme=hugo-zen --watch
 
 
 
