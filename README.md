@@ -1,10 +1,16 @@
 # cryptohack.net
 
-To install:
+The website of the cryptohack network.
+
+Install dependencies:
 
     brew install hugo
 
-To build site in watch mode:
+Checkout the codez:
+
+    git clone --recursive git@github.com:cryptohack/cryptohack.net.git
+
+Build the site in watch mode:
 
     hugo server --buildDrafts --theme=hugo-zen --watch
 
