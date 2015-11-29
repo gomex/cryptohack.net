@@ -5,3 +5,5 @@ tar xvzf hugo_${HUGO_VERSION}_linux_amd64.tar.gz
 cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 hugo
 
 ./hugo -v -t hugo-zen
+
+aws s3 sync public/ s3://cryptohack.net --acl public-read --region ap-southeast-2 --delete
