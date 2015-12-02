@@ -8,6 +8,17 @@ a:visited {
   color: #07740E;
 }
 
+a.button {
+  background-color: #52C159;
+  color: #000;
+  font-size: 1.2em;
+  height: 50px;
+  line-height: 50px;
+}
+a.button:hover, a.button:hover:visited {
+  color: #000;
+}
+
 
 body {
   font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
