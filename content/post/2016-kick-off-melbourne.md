@@ -9,6 +9,6 @@ We've scheduled our kick off meetup in Melbourne for 18th January. We'll run a s
 
 RSVP here: http://www.meetup.com/cryptohack-melbourne/events/227170695/
 
-In the mean time, please [join us on Slack](https://cryptohack.herokuapp.com),which will be the base of our operations for next year. 
+In the mean time, please [join us on Slack](https://cryptohack.herokuapp.com), which will be the base of our operations for next year. 
 
 *posted by [Robin](http://robindoherty.com)*
