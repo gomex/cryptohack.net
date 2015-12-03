@@ -104,8 +104,8 @@ a.big-text {
   color: #888;
 }
 
-.footer-link {
-  margin: 2rem 0;
+.footer-link, .footer-link a {
+  margin: 2rem;
 }
 
 .hr {
