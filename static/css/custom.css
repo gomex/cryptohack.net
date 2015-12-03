@@ -66,6 +66,10 @@ main {
   margin-top: 2rem;
 }
 
+.site-title a {
+  text-decoration: none;
+}
+
 article {
   background-color: #F1F1F1;
   padding: 15px;
@@ -114,3 +118,9 @@ a.big-text {
 }
 
 
+.icon > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
