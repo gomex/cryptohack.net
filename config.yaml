@@ -4,6 +4,7 @@ canonifyURLs: true
 uglyURLs: true
 languageCode: en-us
 title: cryptohack
+theme: hugo-zen
 
 params:
   logo: /images/cryptofist.png

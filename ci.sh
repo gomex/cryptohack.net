@@ -7,6 +7,6 @@ wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUG
 tar xvzf hugo_${HUGO_VERSION}_linux_amd64.tar.gz
 cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 hugo
 
-./hugo -v -t hugo-zen
+./hugo -v
 
 aws s3 sync public/ s3://${S3_BUCKET} --acl public-read --region ap-southeast-2 --delete --cache-control "max-age=300,s-maxage=300"
