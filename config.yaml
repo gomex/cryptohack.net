@@ -1,9 +1,9 @@
 baseURL: https://cryptohack.net
 relativeURLs: true
 canonifyURLs: true
+uglyURLs: true
 languageCode: en-us
 title: cryptohack
-canonifyurls: true
 
 params:
   logo: /images/cryptofist.png
