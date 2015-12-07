@@ -9,4 +9,4 @@ cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 hugo
 
 ./hugo -v -t hugo-zen
 
-aws s3 sync public/ s3://${S3_BUCKET} --acl public-read --region ap-southeast-2 --delete
+aws s3 sync public/ s3://${S3_BUCKET} --acl public-read --region ap-southeast-2 --delete --cache-control "max-age=300,s-maxage=300"
