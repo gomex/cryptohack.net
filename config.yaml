@@ -1,4 +1,5 @@
-baseurl: http://cryptohack.net/
+relativeURLs: true
+canonifyURLs: true
 languageCode: en-us
 title: cryptohack
 canonifyurls: true
