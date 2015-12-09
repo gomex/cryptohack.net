@@ -11,4 +11,4 @@ If you've never heard of it, YOW! is pretty much the best software conference in
 
 Come down and chat to us at the ThoughtWorks booth, and we'll be talking to anyone who will listen to us about the implications of the new data retention laws for our digital privacy and some simple things you can do to protect yourself and your friends and family, and how we can continue to build the digital privacy movement.
 
-*posted by andrew*
+*posted by [andrew](https://twitter.com/whereismytaco)*
