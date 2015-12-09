@@ -7,9 +7,9 @@ title = "Let's Encrypt is great for the privacy movement"
 
 [Let's Encrypt](https://letsencrypt.org/) has recently announced it has entered public beta. This is great news for the privacy movement.
 
-Let's Encrypt is a Certificate Authority[1] that provides free (as in no cost), **trusted** certificates, and tools that automate getting a certificate and making sure it is installed and configured so that it provides the best security to users.
+Let's Encrypt is a Certificate Authority[1] that provides free -- as in no cost -- **trusted** certificates and tools for automating getting, installing and configuring a certificate so that it provides the best security to users.
 
-This is important as it means **anyone** running a website can sign up for a certificate and secure the traffic between their site and the people using it, which ensures data that people share with the site will be kept **private**.
+This means **anyone** running a website can sign up for a certificate and secure the traffic between their site and the people using it, which ensures data that people share with the site will be kept **private**.
 
 Even community organisations like Cryptohack can now afford HTTPS -- check it out, we're using HTTPS!
 
