@@ -16,7 +16,7 @@ We talked about:
 * [the Pixelated project](https://pixelated-project.org/),
 * and why we started the cryptohack network.
 
-Check it out [here](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015) (our bit starts around 24 mins).
+Check it out [on SoundCloud](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015) (our bit starts around 24 mins).
 
 Thanks to Dale and Peter for having us on the show!
 
