@@ -124,3 +124,16 @@ a.big-text {
     height: 16px;
     vertical-align: middle;
 }
+
+
+ul.share-buttons{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+ul.share-buttons li{
+  display: inline;
+  padding: 2px;
+}
