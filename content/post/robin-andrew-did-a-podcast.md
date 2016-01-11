@@ -40,10 +40,10 @@ We were recently interviewed on the [Crypto Gossip podcast](http://cryptogoss.co
 [at 49:11](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015#t=49:11) [![retweet](/images/retweet.svg)](https://twitter.com/intent/retweet?tweet_id=679415371284111360)
 
 * Explaining cryptoparties  
-[at 56:09](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015#t=56:09)
+[at 56:09](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015#t=56:09) [![retweet](/images/retweet.svg)](https://twitter.com/intent/retweet?tweet_id=685207302287183873)
 
 * Politicians and technologists with our powers combined  
-[at 1:01:30](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015#t=1:01:30)
+[at 1:01:30](https://soundcloud.com/cryptogoss/cryptogoss-15-9dec2015#t=1:01:30) [![retweet](/images/retweet.svg)](https://twitter.com/intent/retweet?tweet_id=685266933571170304)
 
 
 Thanks to Dale and Peter for having us on the show!
