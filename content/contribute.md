@@ -5,8 +5,13 @@ title = "Contribute - Start cryptohacking now"
 
 +++
 
-As technologists, **we have the power** to help people protect their digital privacy. Below are some open source projects
-that we care about, some of which could use **your** help:
+As technologists, **we have the power** to help people protect their digital privacy.
+
+Below are some open source projects that we care about.
+
+Some of them could use **your** help!
+
+---
 
 # Pixelated
 [Website](https://pixelated-project.org/) | [Source](https://github.com/pixelated)
@@ -34,14 +39,6 @@ An Android app that provides human rights defenders with the information on what
 and the tools to do it.
 
 Tech stack: [Java](http://www.oracle.com/technetwork/java/index-138747.html)
-
----
-# Other projects:
- * coyim
- * keepassx
- * Signal-Android
- * Signal-Desktop
- * oyyo
 
 ---
 
