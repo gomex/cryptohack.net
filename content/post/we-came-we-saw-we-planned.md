@@ -1,6 +1,6 @@
 +++
 date = "2016-01-21T22:46:00+11:00"
-draft = false
+draft = true
 title = "We came, we saw, we planned - Cryptohack Melbourne 2016 Kick Off reportback"
 
 +++
