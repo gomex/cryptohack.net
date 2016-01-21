@@ -7,14 +7,14 @@ title = "We came, we saw, we planned - Cryptohack Melbourne 2016 Kick Off report
 
 Welcome to 2016! This is going to be a big year for the effort to reclaim our privacy judging by the passion displayed by the Cryptohackers who met on Monday evening this week. 50 Cryptohackers met in Melbourne, talked about why privacy is important and imagined what impact we could have on the privacy movement in the next year and over the next five years.
 
-We've done some work collating the plethora of ideas, and think that 4 themes have emerged:
+We've done some work collating the plethora of ideas, and four themes have emerged:
 
 - Tech
 - Privacy awareness and engagement
 - Politics and legislation
 - Cryptohack
 
-Obviously tech is a really important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. SOMETHING MORE HERE. 
+Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. SOMETHING MORE HERE. 
 
 SOEMTHING ABOUT MOBVING THE DISCUSSION TO THE INTERNATIONAL GROUP & JOIN US ON SLACK TO CONTRIBUTE TO THE DISCUSSION
 
