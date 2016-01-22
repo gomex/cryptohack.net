@@ -1,24 +1,26 @@
 +++
 date = "2016-01-21T22:46:00+11:00"
 draft = true
-title = "We came, we saw, we planned - Cryptohack Melbourne 2016 Kick Off reportback"
+title = "Planning 2016 -- Melbourne Kick Off report"
 
 +++
 
 Welcome to 2016! This is going to be a big year for the effort to reclaim our privacy judging by the passion displayed by the Cryptohackers who met on Monday evening this week. 50 Cryptohackers met in Melbourne, talked about why privacy is important and imagined what impact we could have on the privacy movement in the next year and over the next five years.
 
-We've done some work collating the plethora of ideas, and four themes have emerged:
+We've collated the plethora of ideas, and four themes have emerged:
 
 - Tech
 - Privacy awareness and engagement
 - Politics and legislation
 - Cryptohack
 
-Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. We believe free/libre open source sofware (FLOSS) is key for the privacy movement, which is why one of our main purposes is contributing to make crypto-tools better.
+Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. We believe free/libre open source sofware (FLOSS) is key for the privacy movement, which is why one of our main purposes is contributing to make crypto tools better.
 
-Cryptohack started in Melbourne, but at the moment we are 300+ cryptohackers in over 20 timezones. We want to benefit from such diversity and have a wider understanding of the privacy (or lack of) situation in all corners of the world.
+Cryptohack started in Melbourne, but at the moment we are 300+ Cryptohackers in over 20 timezones. We want to benefit from such diversity and have a wider understanding of the state of privacy (or lack thereof) in all corners of the world.
 
-We think this should be a collective effort, if the reach of some corporations is global so should be our efforts. If you're interested in contributing to this discussion or projects, [join us on Slack.](https://cryptohack.herokuapp.com/)
+We think this should be a collective effort, if the reach of some corporations is global so should be our efforts. If you're interested in contributing to this discussion or projects, [join us on Slack](https://cryptohack.herokuapp.com/).
+
+
 # The ideas
 
 The brainstorming method we used asked the Cryptohackers to catapult themselves one year, then 5 years into the future and look back to the day of the exercise, and imaging what impact we've had on the world.
