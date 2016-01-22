@@ -14,10 +14,11 @@ We've done some work collating the plethora of ideas, and four themes have emerg
 - Politics and legislation
 - Cryptohack
 
-Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. SOMETHING MORE HERE. 
+Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. We believe free/libre open source sofware (FLOSS) is key for the privacy movement, which is why one of our main purposes is contributing to make crypto-tools better.
 
-SOEMTHING ABOUT MOBVING THE DISCUSSION TO THE INTERNATIONAL GROUP & JOIN US ON SLACK TO CONTRIBUTE TO THE DISCUSSION
+Cryptohack started in Melbourne, but at the moment we are 300+ cryptohackers in over 20 timezones. We want to benefit from such diversity and have a wider understanding of the privacy (or lack of) situation in all corners of the world.
 
+We think this should be a collective effort, if the reach of some corporations is global so should be our efforts. If you're interested in contributing to this discussion or projects, [join us on Slack.](https://cryptohack.herokuapp.com/)
 # The ideas
 
 The brainstorming method we used asked the Cryptohackers to catapult themselves one year, then 5 years into the future and look back to the day of the exercise, and imaging what impact we've had on the world.
