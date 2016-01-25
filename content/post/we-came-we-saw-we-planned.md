@@ -115,7 +115,7 @@ The brainstorming method we used asked the Cryptohackers to catapult themselves 
 
 - Apathy.
 - Criminals and terrorists use crypto too.
-- Fear around privacy vs national security rhetoric.
+- Fear around privacy versus national security rhetoric.
 - Current tools are too hard to use for many people.
 - Tech ignorance in general population and particularly those in decision making positions.
 - Governments are anti-privacy and creating laws hostile to privacy and crypto.
