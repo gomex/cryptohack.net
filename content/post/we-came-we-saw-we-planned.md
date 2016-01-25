@@ -14,11 +14,15 @@ We've collated the plethora of ideas, and four themes have emerged:
 - Politics and legislation
 - Cryptohack
 
-Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. We believe free/libre open source sofware (FLOSS) is key for the privacy movement, which is why one of our main purposes is contributing to make crypto tools better.
+Tech is an important theme for Cryptohack - we are a network of technologists after all, so our biggest impact is likely to be in the tech sphere. We believe free/libre open source sofware (FLOSS) is key for the privacy movement, which is why one of our main purposes is contributing to make privacy tools better.
 
-Cryptohack started in Melbourne, but at the moment we are 300+ Cryptohackers in over 20 timezones. We want to benefit from such diversity and have a wider understanding of the state of privacy (or lack thereof) in all corners of the world.
+Tech alone can't ensure our privacy, and we generated a few potential goals the the politics and legislation space. Being set in Melbourne, it makes sense that were are most concerned about the [Trans-Pacific-Partnership](http://aftinet.org.au/cms/trans-pacific-partnership-agreement) becoming ratified, and repealing the Australian [data retention laws](https://robindoherty.com/2015/10/07/your-digital-privacy-ends-this-time-next-week.html). We also came up with some potential goals for raising awareness of privacy and making more people care about protecting their privacy.
 
-We think this should be a collective effort, if the reach of some corporations is global so should be our efforts. If you're interested in contributing to this discussion or projects, [join us on Slack](https://cryptohack.herokuapp.com/).
+There are plenty of great ideas here, but we're still just a small community. We need to choose goals where we can use our technology skills to have the greatest impact. We're also a global community - Cryptohack started in Melbourne, but at the moment we have Cryptohackers in over 20 time zones. We want to benefit from our diversity and have a wider understanding of the state of privacy (or lack thereof) in all corners of the world.
+
+We think this should be a collective effort, if the reach of governments and corporations is global, then so should be our efforts. If you're interested in helping us choose our goals, [join us on Slack](https://cryptohack.herokuapp.com/).
+
+We also want to keep our core work progressing, so we're kicking off our next series of hack nights! We're going to experiment with virtual hack nights so that the most Cryptohackers can be involved. We're going to start by continuing our work on [Pixelated](https://pixelated-project.org). Join us online on [Slack](https://cryptohack.herokuapp.com/), at 6:30pm (ADST) on 10th Feb, and start putting your tech superpowers to work!
 
 
 # The ideas
@@ -47,8 +51,7 @@ The brainstorming method we used asked the Cryptohackers to catapult themselves 
 ### Politics & legislation
 
 - Prevent ratification of the [Trans-Pacific-Partnership](http://aftinet.org.au/cms/trans-pacific-partnership-agreement).
-- Reversal of the [data retention laws](https://robindoherty.com/2015/10/07/your-digital-privacy-ends-this-time-next-week.html).
-- More transparency when access to our data has been requested by government agencies.
+- More transparency when our data has been requested by government agencies.
 
 ### Cryptohack
 
@@ -64,13 +67,12 @@ The brainstorming method we used asked the Cryptohackers to catapult themselves 
 
 - Public policies on badly stored private data (especially public institutions like police, govt as well as banks) and mandatory disclosure.
 - Better whistleblower protections.
-- Anti-privacy laws revoked.
-    - Data retention.
+- Anti-privacy laws revoked:
+    - Especially reversal of the Australian [data retention laws](https://robindoherty.com/2015/10/07/your-digital-privacy-ends-this-time-next-week.html).
 
 ### Tech
 
 - Zero-knowledge encryption by default across all tech (mobile, HTTP, IoT, etc).
-- Simpler crypto implementations (e.g. VPNs or TLS).
 - Decent privacy-focused smartphone is released.
 - Email encryption is ubiquitous.
     - Find a way to hide metadata.
