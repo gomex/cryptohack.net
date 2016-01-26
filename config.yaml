@@ -9,5 +9,5 @@ theme: hugo-zen
 params:
   logo: /images/cryptofist.png
   twitter: https://twitter.com/cryptohacknet
-  meetup: https://www.meetup.com/cryptohack-melbourne/events/227170695/
+  meetup: https://www.meetup.com/cryptohack-melbourne/
   slack: https://cryptohack.herokuapp.com
