@@ -8,7 +8,7 @@ Install dependencies:
 
     brew install hugo
 
-Checkout the codez:
+Checkout the code:
 
     git clone --recursive git@github.com:cryptohack/cryptohack.net.git
 
