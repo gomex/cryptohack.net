@@ -1,5 +1,7 @@
 # cryptohack.net
 
+[![Build Status](https://snap-ci.com/cryptohack/cryptohack.net/branch/master/build_image)](https://snap-ci.com/cryptohack/cryptohack.net/branch/master)
+
 The website of the Cryptohack Network.
 
 Install dependencies:
