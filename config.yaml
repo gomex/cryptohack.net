@@ -3,7 +3,7 @@ relativeURLs: true
 canonifyURLs: true
 uglyURLs: true
 languageCode: en-us
-title: cryptohack
+title: Cryptohack
 theme: hugo-zen
 
 params:

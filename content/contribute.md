@@ -1,15 +1,13 @@
 +++
 date = "2016-01-11T22:40:00+11:00"
 draft = false
-title = "Contribute - Start cryptohacking now"
+title = "Contribute - start cryptohacking now"
 
 +++
 
 As technologists, **we have the power** to help people protect their digital privacy.
 
-Below are some open source projects that we care about.
-
-Some of them could use **your** help!
+Below are some open source projects that we care about. Some of them could use **your** help!
 
 ---
 
@@ -41,7 +39,9 @@ and the tools to do it.
 Tech stack: [Java](http://www.oracle.com/technetwork/java/index-138747.html)
 
 ---
+# Help improve this list
+
 
 Know another project that belongs on this list? Or do you have more information or better
-links to add above? [Join us](https://cryptohack.herokuapp.com/) online and let us know,
+links to add? [Join us](https://cryptohack.herokuapp.com/) online and let us know,
 or even [open a pull request](https://github.com/cryptohack/cryptohack.net) and add it yourself!

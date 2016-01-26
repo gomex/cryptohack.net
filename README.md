@@ -1,6 +1,6 @@
 # cryptohack.net
 
-The website of the cryptohack network.
+The website of the Cryptohack Network.
 
 Install dependencies:
 
