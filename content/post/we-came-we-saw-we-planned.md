@@ -27,7 +27,9 @@ We also want to keep our core work progressing, so we're kicking off our next se
 
 # The ideas
 
-The brainstorming method we used asked the Cryptohackers to catapult themselves one year, then 5 years into the future, and imagine what impact we've had on the world.
+The brainstorming method we used asked the Cryptohackers to catapult themselves one year, then five years into the future, and imagine what impact we've had on the world.
+
+To help us figure out how to plan our path to some of these goals, we also asked Cryptohackers what we already have, or could have in the future that might help us reach these goals, and what will get in our way.
 
 ## 1 year
 
