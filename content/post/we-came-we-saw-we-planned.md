@@ -1,6 +1,6 @@
 +++
 date = "2016-01-21T22:46:00+11:00"
-draft = true
+draft = false
 title = "Planning 2016 -- Melbourne Kick Off report"
 
 +++
