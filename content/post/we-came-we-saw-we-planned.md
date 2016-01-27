@@ -1,11 +1,11 @@
 +++
-date = "2016-01-21T22:46:00+11:00"
+date = "2016-01-28T09:15:00+11:00"
 draft = false
 title = "Planning 2016 -- Melbourne Kick Off report"
 
 +++
 
-Welcome to 2016! This is going to be a big year for the effort to reclaim our privacy judging by the passion displayed by the Cryptohackers who met on Monday evening this week. 50 Cryptohackers met in Melbourne, talked about why privacy is important and imagined what impact we could have on the privacy movement in the next year and over the next five years.
+Welcome to 2016! This is going to be a big year for the effort to reclaim our privacy judging by the passion displayed by the Cryptohackers who met on Monday evening last week. 50 Cryptohackers met in Melbourne, talked about why privacy is important and imagined what impact we could have on the privacy movement in the next year and over the next five years.
 
 We've collated the plethora of ideas, and four themes have emerged:
 
