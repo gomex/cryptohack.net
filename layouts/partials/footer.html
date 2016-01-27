@@ -3,7 +3,8 @@
 		<div class="hr"></div>
 		<div class="footer-link">
       {{ with .Site.Params.rss }}<a href="{{ . }}" target="_blank">RSS</a>{{ end }}
-			{{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank">Twitter</a>{{ end }}
+      {{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank">Twitter</a>{{ end }}
+			{{ with .Site.Params.facebook }}<a href="{{ . }}" target="_blank">Facebook</a>{{ end }}
       {{ with .Site.Params.meetup }}<a href="{{ . }}" target="_blank">Meetup</a>{{ end }}
 			{{ with .Site.Params.slack }}<a href="{{ . }}" target="_blank">Slack</a>{{ end }}
 		</div>
