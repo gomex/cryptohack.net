@@ -5,7 +5,7 @@ title = "Come and visit us at YOW! Melbourne"
 
 +++
 
-A few **cryptohackers** are going to be at [YOW! Conference this year](http://melbourne.yowconference.com.au/), in Melbourne on Thursday and Friday, 3rd & 4th December.
+A few **Cryptohackers** are going to be at [YOW! Conference this year](http://melbourne.yowconference.com.au/), in Melbourne on Thursday and Friday, 3rd & 4th December.
 
 If you've never heard of it, YOW! is pretty much the best software conference in Australia - there's talks on languages, big data, frameworks, architecture, delivery, cloud, devops and tons more. 
 
