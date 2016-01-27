@@ -11,3 +11,4 @@ params:
   twitter: https://twitter.com/cryptohacknet
   meetup: https://www.meetup.com/cryptohack-melbourne/
   slack: https://cryptohack.herokuapp.com
+  rss: https://cryptohack.net/index.xml
