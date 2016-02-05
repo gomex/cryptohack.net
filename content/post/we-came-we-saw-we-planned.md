@@ -22,7 +22,7 @@ There are plenty of great ideas here, but we're still just a small community. We
 
 We think this should be a collective effort, if the reach of governments and corporations is global, then so should be our efforts. If you're interested in helping us choose our goals, [join us on Slack](https://cryptohack.herokuapp.com/).
 
-We also want to keep our core work progressing, so we're kicking off our next series of hack nights! We're going to experiment with virtual hack nights so that the most Cryptohackers can be involved. We're going to start by continuing our work on [Pixelated](https://pixelated-project.org). Join us online on [Slack](https://cryptohack.herokuapp.com/), at 6:30pm (ADST) on 10th Feb, and start putting your tech superpowers to work!
+We also want to keep our core work progressing, so we're kicking off our next series of hack nights! We're going to experiment with virtual hack nights so that the most Cryptohackers can be involved. We're going to start by continuing our work on [Pixelated](https://pixelated-project.org). Join us online on [Slack](https://cryptohack.herokuapp.com/), at 6:30pm (AEDT) on 10th February, and start putting your tech superpowers to work!
 
 
 # The ideas
