@@ -4,7 +4,7 @@ draft = false
 title = "10th February -- our first hack night of 2016"
 +++
 
-Following on from our hugely successful [kick off](/post/we-came-we-saw-we-planned.html), it's now time to kick off our contributions to open source projects that enhance privacy for 2016.
+Following our hugely successful [kick off](/post/we-came-we-saw-we-planned.html), it's now time to kick off our contributions to open source projects that enhance privacy for 2016.
 
 We're kicking off our next series of hack nights on 10th February at [6:30pm AEDT (UTC+11)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Cryptohack+Virtual+Hack+Night&iso=20160210T1830&p1=152) with a virtual hack night -- we'll meet on Slack with Cryptohackers from around the world.
 
