@@ -13,7 +13,7 @@ Come and work on whatever privacy tool you think needs our help, or join us in f
 Let us know you're coming now by signing in to [Slack](https://cryptohack.slack.com/) (you'll have to [join](https://cryptohack.herokuapp.com) first) and opening the channel (our meeting place for the day): `/join #10th-feb-hacknight`, or RSVP:
 
 <p class="center">
-<a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/227170695/"><strong>Meetup</strong></a>
+<a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/228631351/"><strong>Meetup</strong></a>
 <!-- <a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/227170695/"><strong>Facebook</strong></a> -->
 </p>
 
