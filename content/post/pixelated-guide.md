@@ -19,29 +19,40 @@ title = "Cryptohackers guide to getting started with pixelated"
   <iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">PIXELATED VIDEO STORY - ThoughtWorks</a>
 
 
-
-
+-------------------------------------------------------------------------------------------
 # Tech
 
-  This will be mainly focused on the User Agent, it is a good point to start contributing.
+  There is a lot to it, but let's start with the user agent.
 
   Github: https://github.com/pixelated/pixelated-user-agent
 
 
-
-
 ## Setup
 
-  Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+  0. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads)
 
-  Install [Vagrant](https://www.vagrantup.com/downloads.html)
+  0. Install [Vagrant](https://www.vagrantup.com/downloads.html)
 
-  minimum setup to get started, (specific for the User Agent?)
+  0. Clone the repo:
+  ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
+
+  0. Start the virtual machine:
+  ` cd pixelated-user-agent `
+  ` vagrant up`
+
+  0. Log into the VM
+  ` vagrant ssh `
+
+  0.
+
+
+-------------------------------------------------------------------------------------------
 
 # Ok, now what?
   Bugs, how to contribute basically
 
 
+-------------------------------------------------------------------------------------------
 # Having troubles?
 
   - Documentation
