@@ -64,7 +64,9 @@ We will focus on the user agent since this is where Pixelated needs the most hel
 
   - Documentation
 
-    - [Podcast (23 mins)](https://soundcloud.com/thoughtworks/pixelated-why-secure-communication-is-essential): Overview of the project and the motivation behind it.
+    - [Podcast (25 mins)](https://soundcloud.com/thoughtworks/pixelated-why-secure-communication-is-essential): Overview of the project and the motivation behind it.
+
+* Deep links to topics in the podcast would be good. I'll add some tonight. --Robin *
 
   - Community
 
