@@ -34,15 +34,16 @@ title = "Cryptohacker's Guide to Pixelated"
   0. Clone the repo:
   ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
 
-  0. Start the virtual machine:
-  ` cd pixelated-user-agent `
-  ` vagrant up`
+  0. Start the virtual machine:<br/>
+  ` cd pixelated-user-agent ` <br/>
+  `vagrant up`
 
-  0. Log into the VM
+  0. Log into the VM: <br/>
   ` vagrant ssh `
 
-  0.
-
+  0. Setup the project: <br/>
+    `cd /vagrant/service`<br/>
+    `./go setup`
 
 -------------------------------------------------------------------------------------------
 
