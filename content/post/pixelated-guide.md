@@ -47,6 +47,10 @@ We will focus on the user agent since this is where Pixelated needs the most hel
     `./go setup`
 
   0. Create an account in the Devs provider:
+    - Ask for an invitation on [Slack: #10th-feb-hacknight](https://cryptohack.slack.com/messages/#10th-feb-hacknight)<br/>
+    *@robin @cam or @pamrucinque will get you sorted*
+
+    - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
 
 
   0. Run the user agent: <br/>
@@ -94,7 +98,7 @@ We will focus on the user agent since this is where Pixelated needs the most hel
   - Community
 
     - [IRC](irc://irc.freenode.net/pixelated)
-    
+
     - [Slack](https://cryptohack.slack.com/messages/pixelated/) (You have to sign up first [here](https://cryptohack.herokuapp.com/))
 
   - Contact the team
