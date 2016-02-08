@@ -103,10 +103,4 @@ We will focus on the user agent since this is where Pixelated needs the most hel
 
   - Contact the team
 
-*Do we need this? Feels like noise:*
-    [@PixelatedTeam](https://twitter.com/pixelatedteam)
-    [team@pixelated-project.org](mailto:team@pixelated-project.org)
-    (PGP Fingerprint: 504A 14EA 39DE 1800 B676 9619 FF0E A8AE D649 7991)
-
-
 *posted by [pam](https://twitter.com/pamrucinque)*
