@@ -16,8 +16,9 @@ It has three components:
 
 0. Platform: Puppet scripts to install and configure Pixelated components; aims to provide a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). We don't need to worry about this much right now.
 
+<div class="center">
 <iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story</a>
-
+</div>
 
 -------------------------------------------------------------------------------------------
 # Tech
