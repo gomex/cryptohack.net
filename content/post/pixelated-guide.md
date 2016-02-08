@@ -46,6 +46,29 @@ We will focus on the user agent since this is where Pixelated needs the most hel
     `cd /vagrant/service`<br/>
     `./go setup`
 
+  0. Create an account in the Devs provider:
+
+
+  0. Run the user agent: <br/>
+    `pixelated-user-agent --host 0.0.0.0 -lc /vagrant/service/pixelated/certificates/dev.pixelated-project.org.ca.crt`
+
+    - Which provider do you want to connect to: <br/>
+      `dev.pixelated-project.org`
+
+    - What's your username registered on the provider: <br/>
+      `username`
+
+    - What's your username registered on the provider: <br/>
+      `********`
+
+    ![Connect to the provider using your credentials](/images/pixelated-guide-1.png)
+    _You **will not** get any response if you connect successfully_
+
+  0. Go to [http://localhost:3333/](http://localhost:3333/)
+
+  All done!
+
+
 -------------------------------------------------------------------------------------------
 
 # Ok, now what?
