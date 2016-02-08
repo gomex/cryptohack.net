@@ -1,8 +1,8 @@
 +++
 author = "Cryptohack"
-date = "2016-02-03T17:46:22+11:00"
+date = "2016-02-08T19:46:22+11:00"
 draft = true
-title = "Cryptohackers guide to getting started with pixelated"
+title = "Cryptohacker's Guide to Pixelated"
 +++
 
 # What is [Pixelated](https://pixelated-project.org/)?
@@ -12,11 +12,9 @@ title = "Cryptohackers guide to getting started with pixelated"
 
   0. **User Agent**: It's the web based client. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F).
 
-
   0. **Dispatcher**: TODOOOO (HELP MUCH NEEDED HERE!)
 
-
-  <iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">PIXELATED VIDEO STORY - ThoughtWorks</a>
+  <iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story</a>
 
 
 -------------------------------------------------------------------------------------------
