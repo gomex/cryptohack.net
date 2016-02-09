@@ -5,8 +5,12 @@ draft = true
 title = "The Cryptohacker's Guide to Pixelated"
 +++
 
+This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (UTC+11)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Cryptohack+Virtual+Hack+Night&iso=20160210T1830&p1=152). Come and work on whatever privacy tool you think needs our help, or join us in focusing on [Pixelated](https://pixelated-project.org) -- the rest of this page is intended to help you get up and running with that project.
+
+First things first, please sign in and say hello to the group on [#10th-feb-hacknight](https://cryptohack.slack.com/messages/10th-feb-hacknight). You'll need to [join](https://cryptohack.herokuapp.com) first.
+
 # What is [Pixelated](https://pixelated-project.org/)?
-Decentralised, encrypted email made easy -- so easy that the end-user doesn't even have to know what PGP is.
+Decentralised, encrypted email made easy -- so easy that the end-user doesn't even have to know what [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is.
 
 It has three components:
 
@@ -16,42 +20,49 @@ It has three components:
 
 0. Platform: Puppet scripts to install and configure Pixelated components; aims to provide a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). We don't need to worry about this much right now.
 
+## Overview
+
 <div class="center">
-<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story</a>
+<iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story (2 mins)</a>
+</div>
+<br /><br />
+<div class="center">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/212550680&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+<a href="https://soundcloud.com/thoughtworks/pixelated-why-secure-communication-is-essential">Pixelated Podcast (25 mins)</a>
 </div>
 
+
+
 -------------------------------------------------------------------------------------------
-# Tech
+# Setting up your development environment
 
-We will focus on the user agent since this is where Pixelated needs the most help.
-
-[Github](https://github.com/pixelated/pixelated-user-agent)
-
+This could take an hour or so depending on the speed of your internet connection -- there is about a gigabyte of data to download in total -- so we recommend getting to step 3 (`vagrant up`) and then listening to the podcast while things are downloading.
 
 ## Setup
+
+0. First things first, don't forget to join the Slack channel if you're here for the 10th February hack night.
 
 0. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
 
 0. Clone the repo:
   ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
 
-0. Start the virtual machine:<br/>
+0. Start the virtual machine (downloads 600MB):<br/>
   ` cd pixelated-user-agent ` <br/>
   `vagrant up`
 
 0. Log into the VM: <br/>
   ` vagrant ssh `
 
-0. Setup the project: <br/>
+0. Setup the project (downloads a few hundred more megabytes): <br/>
     `cd /vagrant/service`<br/>
     `./go setup`
 
 0. Create an account on the development platform:
-    - Ask for an invitation on [Slack: #10th-feb-hacknight](https://cryptohack.slack.com/messages/#10th-feb-hacknight)<br/>
+    - Ask for an invitation on [Slack: #10th-feb-hacknight](https://cryptohack.slack.com/messages/10th-feb-hacknight)<br/>
     *@robin @cam or @pamrucinque will get you sorted*
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
-
 
 0. Run the user agent: <br/>
     `pixelated-user-agent --host 0.0.0.0 -lc /vagrant/service/pixelated/certificates/dev.pixelated-project.org.ca.crt`
@@ -60,22 +71,22 @@ We will focus on the user agent since this is where Pixelated needs the most hel
       `dev.pixelated-project.org`
 
     - What's your username registered on the provider: <br/>
-      `username`
+      `username` (the one you created in previous step)
 
     - Type your password: <br/>
-      `********`
+      `********` (the one you created in previous step)
 
     ![Connect to the provider using your credentials](/images/pixelated-guide-1.png)
-    _You **will not** get any response when you connect_
+    _If the user agent starts up successfully, you will **not** see any other output._
 
-0. Go to [http://localhost:3333/](http://localhost:3333/)
+0. Go to [http://localhost:3333/](http://localhost:3333/). You should see a loading screen for a few seconds, then your inbox. If you get stuck on the loading screen, check your terminal for any error output.
 
 You now have a user agent running on your local machine. You should be able to send and receive emails using this interface -- your address is <username>@dev.pixelated-project.org.
 
 
 -------------------------------------------------------------------------------------------
 
-# Ok, now what?
+# Okay, now what?
 
 [Tablero](https://pixboard.herokuapp.com/)
 
@@ -85,22 +96,11 @@ You now have a user agent running on your local machine. You should be able to s
 
 *It'd be nice to have a low-ish-level walkthrough of the code here.*
 
-
 -------------------------------------------------------------------------------------------
-# Having troubles?
+# <a name="troubles"></a>Come and get help
 
-  - Documentation
+Come and ask your questions in [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). Some of the core Pixelated team plus Cryptohackers will be there ready to help. 
 
-    - [Podcast (25 mins)](https://soundcloud.com/thoughtworks/pixelated-why-secure-communication-is-essential): Overview of the project and the motivation behind it.
-
-*Deep links to topics in the podcast would be good. I'll add some tonight. --Robin *
-
-  - Community
-
-    - [IRC](irc://irc.freenode.net/pixelated)
-
-    - [Slack](https://cryptohack.slack.com/messages/pixelated/) ([join first](https://cryptohack.herokuapp.com/))
-
-  - Contact the team
+We'll add common issues to this page -- feel free to submit a [pull request](https://github.com/cryptohack/cryptohack.net/blob/master/content/post/pixelated-guide.md) if you can make anything on this page clearer.
 
 *posted by [pam](https://twitter.com/pamrucinque)*
