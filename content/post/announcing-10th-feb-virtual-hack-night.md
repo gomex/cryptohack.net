@@ -17,4 +17,4 @@ Let us know you're coming now by signing in to [Slack](https://cryptohack.slack.
 <a class="button" href="https://www.facebook.com/events/582101598605727/"><strong>Facebook</strong></a>
 </p>
 
-*posted by [Robin](https://robindoherty.com)*
+*Posted by [Robin](https://robindoherty.com)*

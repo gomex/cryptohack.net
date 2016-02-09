@@ -123,4 +123,4 @@ To help us figure out how to plan our path to some of these goals, we also asked
 - Governments are anti-privacy and creating laws hostile to privacy and crypto.
 - Techies' ignorance of political situation and laws.
 
-*posted by [andrew](https://twitter.com/whereismytaco)*
+*Posted by [Andrew](https://twitter.com/whereismytaco)*

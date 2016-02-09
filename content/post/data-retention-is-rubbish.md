@@ -46,4 +46,4 @@ Live in Melbourne? Come to our [2016 kick off meetup](http://www.meetup.com/cryp
 Follow [@cryptohacknet](https://twitter.com/cryptohacknet) and me [@rdoh](https://twitter.com/rdoh) on Twitter. 
 
 
-*posted by [Robin](http://robindoherty.com)*
+*Posted by [Robin](http://robindoherty.com)*

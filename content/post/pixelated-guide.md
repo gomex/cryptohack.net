@@ -100,4 +100,4 @@ You will probably run into problems. Don't waste time -- some of the core Pixela
 
 We'll add common issues to this page -- feel free to submit a [pull request](https://github.com/cryptohack/cryptohack.net/blob/master/content/post/pixelated-guide.md) if you can make anything on this page clearer.
 
-*posted by [pam](https://twitter.com/pamrucinque) and [robin](https://twitter.com/rdoh)*
+*Posted by [Pam](https://twitter.com/pamrucinque) and [Robin](https://twitter.com/rdoh)*

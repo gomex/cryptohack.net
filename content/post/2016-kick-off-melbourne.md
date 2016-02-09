@@ -11,4 +11,4 @@ We've scheduled our kick off meetup in Melbourne for 18th January. We'll run a s
 
 In the mean time, please [join us on Slack](https://cryptohack.herokuapp.com), which will be the base of our operations for next year. 
 
-*posted by [Robin](http://robindoherty.com)*
+*Posted by [Robin](http://robindoherty.com)*

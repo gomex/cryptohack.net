@@ -17,4 +17,4 @@ It also means that as technologists, we have no more excuses for not configuring
 
 [1] A certificate authority (CA) issues digital certificates. In the context of HTTPS, a certificate verifies that the website is who it says it is. Web browsers are configured to trust particular CAs, and if we're visiting a site with a certificate issued by one of these trusted CAs, our browser will show a lock indicating it trusts the certificate, otherwise it will barf and tell us the certificate is not trusted. If we don't trust the identity of a website, we should definitely not trust it with our data!
 
-*Posted by [andrew](https://twitter.com/whereismytaco)*
+*Posted by [Andrew](https://twitter.com/whereismytaco)*
