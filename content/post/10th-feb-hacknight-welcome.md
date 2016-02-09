@@ -1,16 +1,16 @@
 +++
 author = "Cryptohack"
-date = "2016-02-08T19:46:22+11:00"
+date = "2016-02-09T13:46:22+11:00"
 draft = true
-title = "The Cryptohacker's Guide to Pixelated"
+title = "10th February Hacknight -- Welcome"
 +++
 
 First things first, please sign in and say hello to the group on [#10th-feb-hacknight](https://cryptohack.slack.com/messages/10th-feb-hacknight). You'll need to [join](https://cryptohack.herokuapp.com) first.
 
 This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (UTC+11)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Cryptohack+Virtual+Hack+Night&iso=20160210T1830&p1=152). Come and work on whatever privacy tool you think needs our help, or join us in focusing on [Pixelated](https://pixelated-project.org) -- the rest of this page is intended to help you get up and running with that project.
 
-# What is [Pixelated](https://pixelated-project.org/)?
-Decentralised, encrypted email made easy -- so easy that the user doesn't even have to know what [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is.
+# The Cryptohacker's Guide to Pixelated
+[Pixelated](https://pixelated-project.org/) is decentralised, encrypted email made easy -- so easy that the user doesn't even have to know what [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is.
 
 It has three components:
 
@@ -28,6 +28,8 @@ It has three components:
 # Setting up your development environment
 
 This could take 30 to 60 minutes or more depending on your internet connection -- it will download about a gigabyte of data in total -- so we recommend getting to the `vagrant up` step and then listening to the podcast while things are downloading.
+
+If you have any troubles, don't waste time -- [come and ask for help](#troubles).
 
 <div class="center">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/212550680&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
@@ -85,13 +87,13 @@ You now have a user agent running on your local machine. You should be able to s
 
 # Okay, now what?
 
-[Tablero](https://pixboard.herokuapp.com/)
+Choose an issue from [beginners' issues on Github](https://github.com/pixelated/pixelated-user-agent/labels/Beginners) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. *We will add a shortlist here soon.*
 
-[Beginners' issues on Github](https://github.com/pixelated/pixelated-user-agent/labels/Beginners)
+Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/blob/master/README.md) for some pointers on how to run tests, etc. 
 
-[How to contribute](https://github.com/pixelated/pixelated-user-agent/blob/master/CONTRIBUTING.md)
+If it's not clear how to your issue, or you need anything to be explained, come and [get help](#troubles).
 
-*It'd be nice to have a low-ish-level walkthrough of the code here.*
+Check the [contribution guide](https://github.com/pixelated/pixelated-user-agent/blob/master/CONTRIBUTING.md) before you submit a pull request.
 
 -------------------------------------------------------------------------------------------
 # <a name="troubles"></a>Come and get help
