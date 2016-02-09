@@ -20,27 +20,23 @@ It has three components:
 
 0. Platform: Puppet scripts to install and configure Pixelated components; aims to provide a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). We don't need to worry about this much right now.
 
-## Overview
-
 <div class="center">
 <iframe class="wistia_embed" name="wistia_embed" src="http://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story (2 mins)</a>
 </div>
-<br /><br />
+
+# Setting up your development environment
+
+This could take an hour or so depending on the speed of your internet connection -- there is about a gigabyte of data to download in total -- so we recommend getting to the `vagrant up` step and then listening to the podcast while things are downloading.
+
 <div class="center">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/212550680&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 <a href="https://soundcloud.com/thoughtworks/pixelated-why-secure-communication-is-essential">Pixelated Podcast (25 mins)</a>
 </div>
 
 
-
--------------------------------------------------------------------------------------------
-# Setting up your development environment
-
-This could take an hour or so depending on the speed of your internet connection -- there is about a gigabyte of data to download in total -- so we recommend getting to step 3 (`vagrant up`) and then listening to the podcast while things are downloading.
-
 ## Setup
 
-0. First things first, don't forget to join the Slack channel if you're here for the 10th February hack night.
+0. Don't forget to join the Slack channel if you're here for the 10th February hack night.
 
 0. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
 
