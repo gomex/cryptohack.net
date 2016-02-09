@@ -96,8 +96,8 @@ You now have a user agent running on your local machine. You should be able to s
 -------------------------------------------------------------------------------------------
 # <a name="troubles"></a>Come and get help
 
-Come and ask your questions in [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). Some of the core Pixelated team plus Cryptohackers will be there ready to help. 
+Come and ask your questions in [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). Some of the core Pixelated team plus Cryptohackers will be there ready to help.
 
 We'll add common issues to this page -- feel free to submit a [pull request](https://github.com/cryptohack/cryptohack.net/blob/master/content/post/pixelated-guide.md) if you can make anything on this page clearer.
 
-*posted by [pam](https://twitter.com/pamrucinque)*
+*posted by [pam](https://twitter.com/pamrucinque) and [robin](https://twitter.com/rdoh)*
