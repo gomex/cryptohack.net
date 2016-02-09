@@ -87,13 +87,13 @@ You now have a user agent running on your local machine. You should be able to s
 
 # Okay, now what?
 
-Choose an issue from [beginners' issues on Github](https://github.com/pixelated/pixelated-user-agent/labels/Beginners) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. *We will add a shortlist here soon.*
+Choose an issue from those [labelled "beginners" on Github](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. 
 
-Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/blob/master/README.md) for some pointers on how to run tests, etc. 
+*We will add a shortlist of issues here soon.*
 
 If it's not clear how to your issue, or you need anything to be explained, come and [get help](#troubles).
 
-Check the [contribution guide](https://github.com/pixelated/pixelated-user-agent/blob/master/CONTRIBUTING.md) before you submit a pull request.
+Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/blob/master/README.md) for pointers on how to run tests, etc. Check the [contribution guide](https://github.com/pixelated/pixelated-user-agent/blob/master/CONTRIBUTING.md) before you submit a pull request.
 
 -------------------------------------------------------------------------------------------
 # <a name="troubles"></a>Come and get help
