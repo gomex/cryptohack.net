@@ -30,30 +30,30 @@ We will focus on the user agent since this is where Pixelated needs the most hel
 
 ## Setup
 
-  0. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
+0. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
 
-  0. Clone the repo:
+0. Clone the repo:
   ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
 
-  0. Start the virtual machine:<br/>
+0. Start the virtual machine:<br/>
   ` cd pixelated-user-agent ` <br/>
   `vagrant up`
 
-  0. Log into the VM: <br/>
+0. Log into the VM: <br/>
   ` vagrant ssh `
 
-  0. Setup the project: <br/>
+0. Setup the project: <br/>
     `cd /vagrant/service`<br/>
     `./go setup`
 
-  0. Create an account in the Devs provider:
+0. Create an account on the development platform:
     - Ask for an invitation on [Slack: #10th-feb-hacknight](https://cryptohack.slack.com/messages/#10th-feb-hacknight)<br/>
     *@robin @cam or @pamrucinque will get you sorted*
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
 
 
-  0. Run the user agent: <br/>
+0. Run the user agent: <br/>
     `pixelated-user-agent --host 0.0.0.0 -lc /vagrant/service/pixelated/certificates/dev.pixelated-project.org.ca.crt`
 
     - Which provider do you want to connect to: <br/>
@@ -68,9 +68,9 @@ We will focus on the user agent since this is where Pixelated needs the most hel
     ![Connect to the provider using your credentials](/images/pixelated-guide-1.png)
     _You **will not** get any response when you connect_
 
-  0. Go to [http://localhost:3333/](http://localhost:3333/)
+0. Go to [http://localhost:3333/](http://localhost:3333/)
 
-  All done!
+You now have a user agent running on your local machine. You should be able to send and receive emails using this interface -- your address is <username>@dev.pixelated-project.org.
 
 
 -------------------------------------------------------------------------------------------
@@ -93,13 +93,13 @@ We will focus on the user agent since this is where Pixelated needs the most hel
 
     - [Podcast (25 mins)](https://soundcloud.com/thoughtworks/pixelated-why-secure-communication-is-essential): Overview of the project and the motivation behind it.
 
-* Deep links to topics in the podcast would be good. I'll add some tonight. --Robin *
+*Deep links to topics in the podcast would be good. I'll add some tonight. --Robin *
 
   - Community
 
     - [IRC](irc://irc.freenode.net/pixelated)
 
-    - [Slack](https://cryptohack.slack.com/messages/pixelated/) (You have to sign up first [here](https://cryptohack.herokuapp.com/))
+    - [Slack](https://cryptohack.slack.com/messages/pixelated/) ([join first](https://cryptohack.herokuapp.com/))
 
   - Contact the team
 
