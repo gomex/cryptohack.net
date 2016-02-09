@@ -87,7 +87,7 @@ You now have a user agent running on your local machine. You should be able to s
 
 [Tablero](https://pixboard.herokuapp.com/)
 
-[Beginners' issues on Github](https://github.com/pixelated/pixelated-user-agent/blob/master/labels/Beginners)
+[Beginners' issues on Github](https://github.com/pixelated/pixelated-user-agent/labels/Beginners)
 
 [How to contribute](https://github.com/pixelated/pixelated-user-agent/blob/master/CONTRIBUTING.md)
 
