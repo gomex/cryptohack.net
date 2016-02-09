@@ -14,7 +14,7 @@ Checkout the code:
 
 Build the site in watch mode:
 
-    hugo server --buildDrafts --theme=hugo-zen --watch
+    hugo server --buildDrafts --watch
 
 
 
