@@ -91,7 +91,7 @@ Choose an issue from those [labelled "beginners" on Github](https://github.com/p
 
 *We will add a shortlist of issues here soon.*
 
-If it's not clear how to your issue, or you need anything to be explained, come and [get help](#troubles).
+If it's not clear how to progress with the issue, or you need anything to be explained, come and [get help](#troubles).
 
 Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/blob/master/README.md) for pointers on how to run tests, etc. Check the [contribution guide](https://github.com/pixelated/pixelated-user-agent/blob/master/CONTRIBUTING.md) before you submit a pull request.
 
