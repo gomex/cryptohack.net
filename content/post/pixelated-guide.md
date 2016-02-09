@@ -5,9 +5,9 @@ draft = true
 title = "The Cryptohacker's Guide to Pixelated"
 +++
 
-This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (UTC+11)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Cryptohack+Virtual+Hack+Night&iso=20160210T1830&p1=152). Come and work on whatever privacy tool you think needs our help, or join us in focusing on [Pixelated](https://pixelated-project.org) -- the rest of this page is intended to help you get up and running with that project.
-
 First things first, please sign in and say hello to the group on [#10th-feb-hacknight](https://cryptohack.slack.com/messages/10th-feb-hacknight). You'll need to [join](https://cryptohack.herokuapp.com) first.
+
+This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (UTC+11)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Cryptohack+Virtual+Hack+Night&iso=20160210T1830&p1=152). Come and work on whatever privacy tool you think needs our help, or join us in focusing on [Pixelated](https://pixelated-project.org) -- the rest of this page is intended to help you get up and running with that project.
 
 # What is [Pixelated](https://pixelated-project.org/)?
 Decentralised, encrypted email made easy -- so easy that the end-user doesn't even have to know what [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is.
