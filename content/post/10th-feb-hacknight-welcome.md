@@ -64,7 +64,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
 
 0. Run the user agent: <br/>
-    `pixelated-user-agent --host 0.0.0.0 -lc /vagrant/service/pixelated/certificates/dev.pixelated-project.org.ca.crt`
+    `pixelated-user-agent --host 0.0.0.0`
 
     - Which provider do you want to connect to: <br/>
       `dev.pixelated-project.org`
