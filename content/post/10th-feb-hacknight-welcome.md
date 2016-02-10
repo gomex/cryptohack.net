@@ -100,22 +100,19 @@ Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/
 
 You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). 
 
-## Common issues
+-------------------------------------------------------------------------------------------
+# Common issues
 
 We'll add common issues to this page -- feel free to submit a [pull request](https://github.com/cryptohack/cryptohack.net/blob/master/content/post/pixelated-guide.md) if you can make anything on this page clearer.
 
-### How do I see the result of my changes?
+## How do I see the result of my changes?
 
 From the [readme](https://github.com/pixelated/pixelated-user-agent/blob/master/README.md):
 
 * For all backend changes, you will need to kill (`Ctrl-C`) the server and run `pixelated-user-agent --host 0.0.0.0` again.
-* For most frontend changes, you will just need to reload the browser. For  changes involving CSS or handlebars, you will also need to run: 
-```
-(user-agent-venv)vagrant@jessie:/vagrant$ cd web-ui
-(user-agent-venv)vagrant@jessie:/vagrant/web-ui$ ./go build
-```
+* For most frontend changes, you will just need to reload the browser. For  changes involving CSS or handlebars, you will also need to run: `cd /vagrant/web-ui && ./go build`
 
-### I think I might be able to hack together a quick-and-dirty lo-fi solution for the issue I’m working with... what do I do?
+## I think I might be able to hack together a quick-and-dirty lo-fi solution for the issue I’m working with... what do I do?
  
 Do it the easy way first, and submit a pull request as a “work in progress” as soon as you have a quick-and-dirty solution (or even an unfinished solution) — that means you can get feedback from the core developers about whether you're heading in the right direction sooner rather than later.  Include “WIP” (work in progress) in the description of your pull request and ask for review, or feedback on anything specific.
 
