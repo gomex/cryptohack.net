@@ -52,12 +52,8 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
   ` cd pixelated-user-agent ` <br/>
   `vagrant up`
 
-0. Log into the VM: <br/>
+0. Log into the VM (sets up the project, downloads a few hundred more megabytes): <br/>
   ` vagrant ssh `
-
-0. Setup the project (downloads a few hundred more megabytes): <br/>
-    `cd /vagrant/service`<br/>
-    `./go setup`
 
 0. Create an account on the development platform:
     - Ask for an invitation on [Slack: #10th-feb-hacknight](https://cryptohack.slack.com/messages/10th-feb-hacknight)<br/>
