@@ -14,13 +14,13 @@ This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (
 
 It has three components:
 
-0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of JavaScript single page webapp using FlightJS, and a RESTful Python service. This is where Pixelated needs the most help. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F). 
+0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of a JavaScript single page webapp using FlightJS, and a RESTful Python service. This is the web email interface that the user sees. It also manages cryptographic keys. It can run on the user's own computer, or be provided by a server to multiple users (via a dispatcher -- see next component). [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F). 
 
-0. [Dispatcher](https://github.com/pixelated/pixelated-dispatcher): orchestrates multiple instances of the user agent (one per user) on a server and provides a login form to restrict access.
+0. [Dispatcher](https://github.com/pixelated/pixelated-dispatcher): orchestrates multiple instances of the user agent (one per user) on a server and provides a login form to restrict access. This allows an organisation to provide a web interface to users without requiring them to install a user agent.
 
-0. [Platform](https://github.com/pixelated/puppet-pixelated): Puppet scripts to install and configure Pixelated components; aims to provide a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). We don't need to worry about this much right now.
+0. [Platform](https://github.com/pixelated/puppet-pixelated): Puppet scripts to install and configure Pixelated components; provides a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). 
 
-This page will guide you through setting up a user agent on your own computer, which will connect to a remote dispatcher and platform (dev.pixelated-project.org).
+This page will guide you through setting up a user agent on your own computer, which will connect to a remote platform (dev.pixelated-project.org).
 
 <div class="center">
 <iframe class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story (2 mins)</a>
@@ -89,7 +89,7 @@ You now have a user agent running on your local machine. You should be able to s
 
 # Okay, now what?
 
-Choose an issue from those [labelled "beginners" on Github](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. 
+Choose an issue from those [labelled "beginners" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. 
 
 If it's not clear how to progress with the issue, or you need anything to be explained, come and [get help](#troubles).
 
