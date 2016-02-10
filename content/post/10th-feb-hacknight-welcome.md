@@ -41,7 +41,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 ## Setup
 
-0. Don't forget to join [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
+0. Don't forget to open [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
 
 0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
 
