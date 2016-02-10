@@ -14,11 +14,13 @@ This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (
 
 It has three components:
 
-0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of JavaScript single page webapp using FlightJS, and a RESTful Python service. This is where Pixelated needs the most help. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F).
+0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of JavaScript single page webapp using FlightJS, and a RESTful Python service. This is where Pixelated needs the most help. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F). 
 
 0. [Dispatcher](https://github.com/pixelated/pixelated-dispatcher): orchestrates multiple instances of the user agent (one per user) on a server and provides a login form to restrict access.
 
 0. [Platform](https://github.com/pixelated/puppet-pixelated): Puppet scripts to install and configure Pixelated components; aims to provide a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). We don't need to worry about this much right now.
+
+This page will guide you through setting up a user agent on your own computer, which will connect to a remote dispatcher and platform (dev.pixelated-project.org).
 
 <div class="center">
 <iframe class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story (2 mins)</a>
@@ -41,7 +43,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 0. Don't forget to join [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
 
-0. Install [Virtual Box](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
+0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
 
 0. Clone the repo:
   ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
@@ -76,7 +78,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
       `********` (the one you created in previous step)
 
     ![Connect to the provider using your credentials](/images/pixelated-guide-1.png)
-    _If the user agent starts up successfully, you will **not** see any other output._
+    _After 20-30 seconds, if the user agent starts up successfully, you will see this line in the output:_ `Done, the user agent is ready to be used`.
 
 0. Go to [http://localhost:3333/](http://localhost:3333/). You should see a loading screen for a few seconds, then your inbox. If it sticks on the loading screen, check your terminal for errors, then [get help](#troubles).
 
@@ -88,8 +90,6 @@ You now have a user agent running on your local machine. You should be able to s
 # Okay, now what?
 
 Choose an issue from those [labelled "beginners" on Github](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. 
-
-*We will add a shortlist of issues here soon.*
 
 If it's not clear how to progress with the issue, or you need anything to be explained, come and [get help](#troubles).
 
