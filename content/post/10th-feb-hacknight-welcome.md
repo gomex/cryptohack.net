@@ -12,13 +12,11 @@ This is a worldwide virtual hack night, starting 10th February at [6:30pm AEDT (
 # The Cryptohacker's Guide to Pixelated
 [Pixelated](https://pixelated-project.org/) is decentralised, encrypted email made easy -- so easy that the user doesn't even have to know what [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) is.
 
-It has three components:
+It has two components:
 
-0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of a JavaScript single page webapp using FlightJS, and a RESTful Python service. This is the web email interface that the user sees. It also manages cryptographic keys. It can run on the user's own computer, or be provided by a server to multiple users (via a dispatcher -- see next component). [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F). 
+0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of a JavaScript single page webapp using FlightJS, and a RESTful Python service. This is the web email interface that the user sees. It also manages cryptographic keys. It can run on the user's own computer, or be provided by a server to multiple users. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F). 
 
-0. [Dispatcher](https://github.com/pixelated/pixelated-dispatcher): orchestrates multiple instances of the user agent (one per user) on a server and provides a login form to restrict access. This allows an organisation to provide a web interface to users without requiring them to install a user agent.
-
-0. [Platform](https://github.com/pixelated/puppet-pixelated): Puppet scripts to install and configure Pixelated components; provides a mail server that is easy to install and maintain, based on [LEAP](https://leap.se). 
+0. [Puppet Module](https://github.com/pixelated/puppet-pixelated): installs and configures Pixelated on a server; provides a mail server _platform_ that is easy to maintain -- based on [LEAP](https://leap.se) -- and a user agent in multi-user mode. 
 
 This page will guide you through setting up a user agent on your own computer, which will connect to a remote platform (dev.pixelated-project.org).
 
