@@ -109,8 +109,8 @@ We'll add common issues to this page -- feel free to submit a [pull request](htt
 
 From the [readme](https://github.com/pixelated/pixelated-user-agent/blob/master/README.md):
 
-* For all backend changes, you will need to kill (`Ctrl-C`) the server and run `pixelated-user-agent --host 0.0.0.0` again.
-* For most frontend changes, you will just need to reload the browser. For  changes involving CSS or handlebars, you will also need to run: `cd /vagrant/web-ui && ./go build`
+* For all Python changes, you will need to kill (`Ctrl-C`) the server and run `pixelated-user-agent --host 0.0.0.0` again.
+* For most JavaScript or HTML changes, you will just need to reload the browser. For changes involving CSS or Handlebars templates, you will also need to run: `cd /vagrant/web-ui && ./go build`
 
 ## I think I might be able to hack together a quick-and-dirty lo-fi solution for the issue I’m working with... what do I do?
  
