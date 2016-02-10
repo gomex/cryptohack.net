@@ -76,7 +76,9 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 0. Go to [http://localhost:3333/](http://localhost:3333/). You should see a loading screen for a few seconds, then your inbox. If it sticks on the loading screen, check your terminal for errors, then [get help](#troubles).
 
-You now have a user agent running on your local machine. You should be able to send and receive emails using this interface -- your address is &lt;username&gt;@dev.pixelated-project.org.
+You now have a user agent running on your local machine. 
+
+Your address is &lt;username&gt;@dev.pixelated-project.org. You should be able to receive emails using this interface, and send emails to other users on the platform (e.g. robin4@dev.pixelated-project.org or pamr@dev.pixelated-project.org). Sending emails to other domains is currently broken owing to [bug #591](https://github.com/pixelated/pixelated-user-agent/issues/591).
 
 
 -------------------------------------------------------------------------------------------
