@@ -33,7 +33,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 ## Setup
 
-0. Don't forget to open [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
+0. Don't forget to open [#2nd-march-hacknight on Slack](https://cryptohack.slack.com/messages/2nd-march-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
 
 0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
 
@@ -48,7 +48,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
   ` vagrant ssh `
 
 0. Create an account on the development platform:
-    - Ask for an invitation on [Slack: #10th-feb-hacknight](https://cryptohack.slack.com/messages/10th-feb-hacknight)<br/>
+    - Ask for an invitation on [Slack: #2nd-march-hacknight](https://cryptohack.slack.com/messages/2nd-march-hacknight)<br/>
     *@robin @cam or @pamrucinque will get you sorted*
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
@@ -88,7 +88,7 @@ Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/
 -------------------------------------------------------------------------------------------
 # <a name="troubles"></a>Come and get help
 
-You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [#10th-feb-hacknight on Slack](https://cryptohack.slack.com/messages/10th-feb-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). 
+You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [#2nd-march-hacknight on Slack](https://cryptohack.slack.com/messages/2nd-march-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). 
 
 -------------------------------------------------------------------------------------------
 # Common issues
