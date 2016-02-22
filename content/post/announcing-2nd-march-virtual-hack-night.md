@@ -10,9 +10,11 @@ Come and work on whatever privacy tool you think needs our help, or join us in f
 
 Let us know you're coming now by signing in to [Slack](https://cryptohack.slack.com/) (you'll have to [join](https://cryptohack.herokuapp.com) first) and opening the channel #2nd-march-hacknight.
 
+For more information about Pixelated and how to set up your development environment, please check out the [Cryptohacker's Guide to Pixelated](/pixelated.html).
+
 <p class="center">
 <a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/229054067/"><strong>Meetup</strong></a>
-<!-- <a class="button" href="https://www.facebook.com/events/582101598605727/"><strong>Facebook</strong></a> -->
+<a class="button" href="https://www.facebook.com/events/469070656627025/"><strong>Facebook</strong></a>
 </p>
 
 *Posted by [Robin](https://robindoherty.com)*
