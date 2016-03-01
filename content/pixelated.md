@@ -49,7 +49,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 0. Create an account on the development platform:
     - Ask for an invitation on [Slack: #2nd-march-hacknight](https://cryptohack.slack.com/messages/2nd-march-hacknight)<br/>
-    *@robin @cam or @pamrucinque will get you sorted*
+    *@robin @cam, @pamrucinque or @akjones will get you sorted*
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
 
