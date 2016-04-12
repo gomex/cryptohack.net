@@ -1,4 +1,4 @@
-+++
+﻿+++
 date = "2016-02-23T10:40:00+11:00"
 draft = false
 title = "The Cryptohacker's Guide to Pixelated"
@@ -35,7 +35,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 0. Don't forget to open [#2nd-march-hacknight on Slack](https://cryptohack.slack.com/messages/2nd-march-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
 
-0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html).
+0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html). In case of Windows, you will also need [Putty](http://www.putty.org/)
 
 0. Clone the repo:
   ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
@@ -44,8 +44,15 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
   ` cd pixelated-user-agent ` <br/>
   `vagrant up`
 
+0. For Windows environment, convert `%USERPROFILE%\.vagrant.d\insecure_private_key`  to .ppk using PuTTYGen<br/>
+
 0. Log into the VM (sets up the project, downloads a few hundred more megabytes): <br/>
-  ` vagrant ssh `
+  - For non windows environment - ` vagrant ssh `
+  - For windows environment login using Putty using the following details <br/>
+  *Hostname: 127.0.0.1* <br/>
+  *Port: 2222* <br/>
+  *Username: vagrant* <br/>
+  *Password: vagrant*
 
 0. Create an account on the development platform:
     - Ask for an invitation on [Slack: #2nd-march-hacknight](https://cryptohack.slack.com/messages/2nd-march-hacknight)<br/>
