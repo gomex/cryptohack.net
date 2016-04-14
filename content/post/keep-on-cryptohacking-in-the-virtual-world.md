@@ -2,12 +2,12 @@
 author = "andrew"
 date = "2016-04-12T22:00:22+10:00"
 draft = true
-title = "Keep on Cryptohacking in the virtual world"
+title = "Keep on cryptohacking in the virtual world"
 +++
 
 Hopefully you've seen our virtual hack nights [some time](announcing-10th-feb-virtual-hack-night.html) [in the last few months](announcing-2nd-march-virtual-hack-night.html). We've invited Cryptohackers, and folks who are new to our community to come together in the same virtual place and get stuff done. It is a format we've been experimenting with, so we can include as many Cryptohackers as possible to share skills and knowledge, and contribute to open source projects like [Pixelated](https://pixelated-project.org).
 
-We're pleased to announce that we're locking in a regular monthly timeslot for our virtual hack nights. We're going to be Cryptohacking on the last Wednesday night of each month. __The first one is going to be Wednesday 27th April, starting at 7:30pm Melbourne/Sydney time.__
+We're pleased to announce that we're locking in a regular monthly timeslot for our virtual hack nights. We're going to be cryptohacking on the last Wednesday night of each month. __The first one is going to be Wednesday 27th April, starting at 7:30pm Melbourne/Sydney time.__
 
 It'll be a little different to previous hack nights, where we've focused our collective efforts to help out the Pixelated team. With these new regular events, we want to create more of a virtual co-working space, where people can work on whatever privacy stuff they're interested in right now, and share ideas. 
 
