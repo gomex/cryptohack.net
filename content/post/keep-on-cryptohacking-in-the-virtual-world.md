@@ -13,10 +13,13 @@ It'll be a little different to previous hack nights, where we'd try and focus ou
 
 If you are keen to contribute to the privacy movement, but don't have something to work on right now, here are some ideas we've had that you could work on:
 
-* Pixelated (We'll have some issues picked out)
+* Pixelated ([Here are some issues you can work on!](https://github.com/pixelated/pixelated-user-agent/labels/Volunteer%20task))
 * Umbrella (Hopefully we'll have stuff to work on)
 * Translate Pixelated video captions (Talk to Pam if you're keen)
-* Write a blog post (we'll post it on cryptohack.net, and/or send it out to our networks) (Talk to Pam, Cam, Robin or Andrew)
+* Write a blog post. We'll post it on cryptohack.net, and/or send it out to our networks. (Talk to Pam, Cam, Robin or Andrew). Here are some ideas:
+    * Password managers comparison
+    * 10 things to improve your privacy online
+    * What crazy shit happened this week? (Small summaries on recent privacy-related news)
 * Bring your own privacy project, and tell us all about it
 * Chat about privacy issues in the news (Talk to everybody!)
 
