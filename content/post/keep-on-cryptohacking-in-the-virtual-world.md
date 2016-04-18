@@ -20,8 +20,13 @@ If you are keen to contribute to the privacy movement, but don't have something 
 * Write a blog post. We'll post it on cryptohack.net, and/or send it out to our networks. (Talk to Pam, Cam, Robin or Andrew). Here are some ideas:
     * Password managers comparison
     * N things you can do to improve your privacy online
-    * Privacy bodge of the week (short summaries on recent privacy-related news)
+    * Privacy bodge of the week (summaries of recent privacy-related news)
 * Bring your own privacy project, and tell us all about it.
 * Chat about privacy issues in the news (talk to everybody!)
+
+<p class="center">
+<a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/230455569/"><strong>RSVP</strong></a>
+</p>
+
 
 *Posted by [Andrew](https://twitter.com/whereismytaco)*
