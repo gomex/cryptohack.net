@@ -9,6 +9,10 @@ Hopefully you've seen our virtual hack nights [some time](announcing-10th-feb-vi
 
 We're pleased to announce that we're locking in a regular monthly timeslot for our virtual hack nights. We're going to be cryptohacking on the last Wednesday night of each month. __The first one will be on Wednesday 27th April, starting at [7:30pm Melbourne/Sydney time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Cryptohack+Virtual+Hack+Night&iso=20160427T1930&p1=152).__
 
+<p class="center">
+<a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/230455569/"><strong>RSVP</strong></a>
+</p>
+
 It'll be a little different to previous hack nights, where we've focused our collective efforts to help out the Pixelated team. With these new regular events, we want to create more of a virtual co-working space, where people can work on whatever privacy stuff they're interested in right now, and share ideas. 
 
 It might be Pixelated, it might be writing a blog post, or it might be preparing a talk. Whatever you're working on, mark the dates in your calendar and come and work on it with us. Other Cryptohackers might even be able to help you out!
@@ -27,6 +31,9 @@ If you are keen to contribute to the privacy movement, but don't have something 
 <p class="center">
 <a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/230455569/"><strong>RSVP</strong></a>
 </p>
+
+Join us: https://cryptohack.herokuapp.com<br />
+Sign in: https://cryptohack.slack.com/messages/virtual-coworking
 
 
 *Posted by [Andrew](https://twitter.com/whereismytaco)*
