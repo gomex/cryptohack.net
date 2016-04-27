@@ -4,20 +4,20 @@ draft = true
 title = "About Cryptohack"
 +++
 
-__Cryptohack is a network of techologists (designers, testers, analysts, developers, sysadmins, security specialists and writers) who care deeply enough about digital privacy to stand up and do something.__
+__Cryptohack is a network of technologists (designers, testers, analysts, developers, sysadmins, security specialists and writers) who care deeply enough about digital privacy to stand up and do something.__
 
 Where did Cryptohack start?
 ---------------------------
 
-We started in Melbourne at the end of 2015 after Robin and Andrew had been delivering privacy workshops to community organisations and the general public as part of the worldwide privacy movement. Though our work, we realised there was a big gap was in the usability of privacy tools.
+Cryptohack started in Melbourne at the end of 2015 after Robin and Andrew had been delivering privacy workshops to community organisations and the general public as part of the worldwide privacy movement. Though our work, we realised there were a big gaps in the usability of privacy tools.
 
 There are some great tools out there, but they can be very hard to use if you’re not a technical expert (like PGP). Plenty of folks have spent a lot of time running workshops and tutorials to convince people that their privacy is under threat and there are tools they can use to help protect their privacy. If the tools were easy to use, we wouldn't have to teach folks to use them!
 
 In our day jobs we make software easier to use all the time. What was missing was an obvious way for us to harness our technical skills, and the skills of our friends and colleagues to help make privacy tools easier to use.
 
-What we also realised that there was a key voice missing in the privacy debate. __The voice of technolgists.__ 
+What we also realised that there was a key voice missing in the privacy debate. __The voice of technologists.__ 
 
-Technologists the ones with the knowledge and skills to understand the tech and the risks that mass surveillance and corporate control of the internet pose to society. We also have the skill to create a digital world where everyone can choose what to share and what to keep private from government and corporate surveillance.
+Technologists the ones with the knowledge and skills to understand the tech and the risks that mass surveillance and corporate control of the internet pose to society. We also have the skills to create a digital world where everyone can choose what to share and what to keep private from government and corporate surveillance.
 
 Cryptohack has become a place for technologists who care about privacy to come together, talk about the issues and potential solutions, and most importantly, to use our technical superpowers to implement those solutions.
 
