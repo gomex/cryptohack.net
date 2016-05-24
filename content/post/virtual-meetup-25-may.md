@@ -19,7 +19,7 @@ The Cryptohack crew
 
 PS. If you don't already have access to Slack, you'll need to join first: https://cryptohack.herokuapp.com
 <p class="center">
-<a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/228631351/"><strong>Meetup</strong></a>
+<a class="button" href="http://www.meetup.com/cryptohack/events/231242272/"><strong>Meetup</strong></a>
 </p>
 
 *Posted by [andrew](https://twitter.com/whereismytaco)*
