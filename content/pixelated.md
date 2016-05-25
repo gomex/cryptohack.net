@@ -100,7 +100,7 @@ Your address is &lt;username&gt;@dev.pixelated-project.org. You should be able t
 
 # Okay, now what?
 
-Choose an issue from those [labelled "beginners" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it.
+Choose an issue from those [labelled "Hacknight" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3AHacknight+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it.
 
 If it's not clear how to progress with the issue, or you need anything to be explained, come and [get help](#troubles).
 
