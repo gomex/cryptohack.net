@@ -8,9 +8,9 @@ title = "The Cryptohacker's Guide to Pixelated"
 
 It has two components:
 
-0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of a JavaScript single page webapp using FlightJS, and a RESTful Python service. This is the web email interface that the user sees. It also manages cryptographic keys. It can run on the user's own computer, or be provided by a server to multiple users. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F). 
+0. [User Agent](https://github.com/pixelated/pixelated-user-agent): composed of a JavaScript single page webapp using FlightJS, and a RESTful Python service. This is the web email interface that the user sees. It also manages cryptographic keys. It can run on the user's own computer, or be provided by a server to multiple users. [Try it yourself](https://try.pixelated-project.org:8080/auth/login?next=%2F).
 
-0. [Puppet Module](https://github.com/pixelated/puppet-pixelated): installs and configures Pixelated on a server; provides a mail server _platform_ that is easy to maintain -- based on [LEAP](https://leap.se) -- and a user agent in multi-user mode. 
+0. [Puppet Module](https://github.com/pixelated/puppet-pixelated): installs and configures Pixelated on a server; provides a mail server _platform_ that is easy to maintain -- based on [LEAP](https://leap.se) -- and a user agent in multi-user mode.
 
 This page will guide you through setting up a user agent on your own computer, which will connect to a remote platform (dev.pixelated-project.org).
 
@@ -18,7 +18,7 @@ This page will guide you through setting up a user agent on your own computer, w
 <iframe class="wistia_embed" name="wistia_embed" src="https://fast.wistia.net/embed/iframe/8tov3e9tnu" allowtransparency="true" frameborder="0" scrolling="no" width="480" height="298"></iframe><br/><a class="wistia-linkback" href="https://thoughtworks.wistia.com/medias/8tov3e9tnu">Pixelated Video Story (2 mins)</a>
 </div>
 
-  
+
 # Setting up your development environment
 
 This could take 30 to 60 minutes or more depending on your internet connection -- it will download about a gigabyte of data in total -- so we recommend getting to the `vagrant up` step and then listening to the podcast while things are downloading.
@@ -33,9 +33,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 ## Setup
 
-0. Don't forget to open [#2nd-march-hacknight on Slack](https://cryptohack.slack.com/messages/2nd-march-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
-
-0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html). In case of Windows, you will also need [Putty](http://www.putty.org/)
+0. Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and  [Vagrant](https://www.vagrantup.com/downloads.html). (_In case of Windows, you will also need [Putty](http://www.putty.org/)_ )
 
 0. Clone the repo:
   ` git clone https://github.com/pixelated-project/pixelated-user-agent.git `
@@ -57,7 +55,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
   *Password: vagrant*
 
 0. Create an account on the development platform:
-    - Ask for an invitation on [Slack: #2nd-march-hacknight](https://cryptohack.slack.com/messages/2nd-march-hacknight)<br/>
+    - Ask for an invitation on [Slack: #general](https://cryptohack.slack.com/messages/general)<br/>
     *@robin @cam, @pamrucinque or @akjones will get you sorted*
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
@@ -81,7 +79,7 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 0. Go to [http://localhost:3333/](http://localhost:3333/). You should see a loading screen for a few seconds, then your inbox. If it sticks on the loading screen, check your terminal for errors, then [get help](#troubles).
 
-You now have a user agent running on your local machine. 
+You now have a user agent running on your local machine.
 
 Your address is &lt;username&gt;@dev.pixelated-project.org. You should be able to receive emails using this interface, and send emails to other users on the platform (e.g. robin4@dev.pixelated-project.org or pamr@dev.pixelated-project.org). Sending emails to other domains is currently broken owing to [bug #591](https://github.com/pixelated/pixelated-user-agent/issues/591).
 
@@ -90,7 +88,7 @@ Your address is &lt;username&gt;@dev.pixelated-project.org. You should be able t
 
 # Okay, now what?
 
-Choose an issue from those [labelled "beginners" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it. 
+Choose an issue from those [labelled "beginners" on GitHub](https://github.com/pixelated/pixelated-user-agent/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3ABeginners+) that sounds like it might be an easy place to start, add a comment on the issue and let us know on Slack that you are working on it.
 
 If it's not clear how to progress with the issue, or you need anything to be explained, come and [get help](#troubles).
 
@@ -99,7 +97,7 @@ Check the [user-agent readme](https://github.com/pixelated/pixelated-user-agent/
 -------------------------------------------------------------------------------------------
 # <a name="troubles"></a>Come and get help
 
-You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [#2nd-march-hacknight on Slack](https://cryptohack.slack.com/messages/2nd-march-hacknight/) (you'll have to [join first](https://cryptohack.herokuapp.com/)). 
+You will probably run into problems. Don't waste time -- some of the core Pixelated team, and other Cryptohackers, are here to help. Come and ask your questions in [#general on Slack](https://cryptohack.slack.com/messages/general/) (you'll have to [join first](https://cryptohack.herokuapp.com/)).
 
 -------------------------------------------------------------------------------------------
 # Common issues
@@ -114,7 +112,7 @@ From the [readme](https://github.com/pixelated/pixelated-user-agent/blob/master/
 * For most JavaScript or HTML changes, you will just need to reload the browser. For changes involving CSS or Handlebars templates, you will also need to run: `cd /vagrant/web-ui && ./go build`
 
 ## I think I might be able to hack together a quick-and-dirty lo-fi solution for the issue I’m working with... what do I do?
- 
+
 Do it the easy way first, and submit a pull request as a “work in progress” as soon as you have a quick-and-dirty solution (or even an unfinished solution) — that means you can get feedback from the core developers about whether you're heading in the right direction sooner rather than later.  Include “WIP” (work in progress) in the description of your pull request and ask for review, or feedback on anything specific.
 
 *Posted by [Pam](https://twitter.com/pamrucinque) and [Robin](https://twitter.com/rdoh)*
