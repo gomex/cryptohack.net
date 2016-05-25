@@ -75,6 +75,18 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
     ![Connect to the provider using your credentials](/images/pixelated-guide-1.png)
     _After 20-30 seconds, if the user agent starts up successfully, you will see this line in the output:_ `Done, the user agent is ready to be used`.
 
+    To save yourself some typing if you want to restart the agent, create a config file with the following contents in the vagrant machine's home directory:
+      
+    ```ini
+    [pixelated]
+    leap_server_name = dev.pixelated-project.org
+    leap_username = username
+    leap_password = *******
+    ```
+
+    You can then pass this file to the user agent when you start it to avoid prompts: `pixelated-user-agent --host 0.0.0.0 --config ~/dev.conf`
+
+
 0. Go to [http://localhost:3333/](http://localhost:3333/). You should see a loading screen for a few seconds, then your inbox. If it sticks on the loading screen, check your terminal for errors, then [get help](#troubles).
 
 You now have a user agent running on your local machine. 
