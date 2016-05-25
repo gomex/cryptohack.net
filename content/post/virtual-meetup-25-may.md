@@ -1,7 +1,7 @@
 +++
 date = "2016-05-25T00:10:00+10:00"
 draft = false
-title = "25th March: FOSS & digital privacy and Pixelated"
+title = "25th March: FOSS & Digital Privacy, and Pixelated"
 +++
 
 Our next virtual hack night is this Wednesday (25th May). This time we are going to focus on scratching our own itch -- the Pixelated development environment. To kick off, Andrew will speak for 30 mins about why free and open source software is essential for digital privacy, followed by Q&A (technology permitting).
@@ -14,12 +14,13 @@ We want to make that quicker and easier, so we need people with a certain set of
 
 Please come along to Slack, and if you have friends with these skills, we would love to have them along too.
 
-Cheers, 
+Cheers, <br />
 The Cryptohack crew
 
-PS. If you don't already have access to Slack, you'll need to join first: https://cryptohack.herokuapp.com
 <p class="center">
-<a class="button" href="http://www.meetup.com/cryptohack/events/231242272/"><strong>Meetup</strong></a>
+<a class="button" href="http://www.meetup.com/cryptohack/events/231242272/"><strong>RSVP</strong></a>
 </p>
+
+PS. If you don't already have access to Slack, you'll need to join first: https://cryptohack.herokuapp.com
 
 *Posted by [andrew](https://twitter.com/whereismytaco)*
