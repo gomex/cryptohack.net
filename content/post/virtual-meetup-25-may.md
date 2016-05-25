@@ -1,7 +1,7 @@
 +++
 date = "2016-05-25T00:10:00+10:00"
 draft = false
-title = "25th March: FOSS & Digital Privacy, and Pixelated"
+title = "25th May: FOSS & Digital Privacy, and Pixelated"
 +++
 
 Our next virtual hack night is this Wednesday (25th May). This time we are going to focus on scratching our own itch -- the Pixelated development environment. To kick off, Andrew will speak for 30 mins about why free and open source software is essential for digital privacy, followed by Q&A (technology permitting).
