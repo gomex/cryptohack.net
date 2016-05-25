@@ -17,14 +17,14 @@ In our day jobs we make software easier to use all the time. What was missing wa
 
 What we also realised that there was a key voice missing in the privacy debate. __The voice of technologists.__ 
 
-Technologists the ones with the knowledge and skills to understand the tech and the risks that mass surveillance and corporate control of the internet pose to society. We also have the skills to create a digital world where everyone can choose what to share and what to keep private from government and corporate surveillance.
+Technologists have the knowledge and skills to understand the tech and the risks that mass surveillance and corporate control of the internet pose to society. We also have the skills to create a digital world where everyone can choose what to share and what to keep private from government and corporate surveillance.
 
 Cryptohack has become a place for technologists who care about privacy to come together, talk about the issues and potential solutions, and most importantly, to use our technical superpowers to implement those solutions.
 
 Why is privacy important?
 -------------------------
 
-We use the internet because it does all sorts of great things for us. Apps can do a lot of neat stuff like keeping us connected with friends, managing lists, watching cat videos and tons more. But corporate interests are mining the internet for all sorts of data so they can sell us more stuff. Governments are ramping up surveillance on their own citizens under the guise of defending society against terrorism.
+We use the internet because it does all sorts of great things for us. Apps can keep us connected with friends, help us manage lists, watching cat videos and tons more. But corporate interests are mining the internet for all sorts of data so they can sell us more stuff. Governments are ramping up surveillance on their own citizens under the guise of defending society against terrorism.
 
 We're unconsciously trading our privacy for convenience. It is time to tip the scales and take control. It is important that we can choose what information we share, and what we keep private.
 
