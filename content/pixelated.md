@@ -46,6 +46,8 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
 0. For Windows environment, convert `%USERPROFILE%\.vagrant.d\insecure_private_key`  to .ppk using PuTTYGen<br/>
 
+0. Wait until `vagrant up` returns you to your prompt; it may take some time for Puppet to prepare the machine.
+
 0. Log into the VM (sets up the project, downloads a few hundred more megabytes): <br/>
   - For non windows environment - ` vagrant ssh `
   - For windows environment login using Putty using the following details <br/>
@@ -60,6 +62,8 @@ If you have any troubles, don't waste time -- [come and ask for help](#troubles)
 
     - Go to [https://dev.pixelated-project.org/](https://dev.pixelated-project.org/) and **Sign up**
 
+0. Ensure your terminal prompt inside the vagrant machine shows the virtualenv, like so: `(user-agent-venv)vagrant@leap-jessie:~$`. If instead you only see  `vagrant@leap-jessie:~$`, please log out of the vagrant box, ensure `vagrant up` returned to your prompt, and log in again.
+ 
 0. Run the user agent: <br/>
     `pixelated-user-agent --host 0.0.0.0`
 
