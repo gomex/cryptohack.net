@@ -1,11 +1,13 @@
 #!/bin/bash -e
 
-HUGO_VERSION=0.14
+HUGO_VERSION=0.16
+DOWNLOAD_FILE_NAME=hugo_${HUGO_VERSION}_linux-64bit
+DOWNLOAD_FILE_NAME_WITH_EXTENSION=${DOWNLOAD_FILE_NAME}.tgz
 S3_BUCKET=cryptohack.net
 
-wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_linux_amd64.tar.gz
-tar xvzf hugo_${HUGO_VERSION}_linux_amd64.tar.gz
-cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 hugo
+wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${DOWNLOAD_FILE_NAME_WITH_EXTENSION}
+tar xvzf ${DOWNLOAD_FILE_NAME_WITH_EXTENSION}
+cp ${DOWNLOAD_FILE_NAME}/${DOWNLOAD_FILE_NAME} hugo
 
 ./hugo -v
 
