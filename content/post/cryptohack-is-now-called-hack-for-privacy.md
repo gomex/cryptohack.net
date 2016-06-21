@@ -5,7 +5,7 @@ draft = true
 title = "Cryptohack is now called Hack for Privacy"
 +++
 
-Cryptohack is a movement of technologists who care about digital privacy, and want to use our super-powers (be they development, design, analysis, testing, security, crypto, usability or writing) to make a difference. That means helping to build and improve software for everyday people to maintain their privacy online, and also establishing ourselves as a relevant and credible voice in the privacy debate.
+We are a movement of technologists who care about digital privacy enough to use our skills (be they development, design, analysis, testing, security, crypto, usability or writing) to make a difference. That means helping to build and improve software for everyday people to maintain their privacy online, and also establishing ourselves as a relevant and credible voice in the privacy debate.
 
 This community has been growing since we started, and we've been contributing to [Pixelated](https://pixelated-project.org), as well running meetups, talks, and virtual hack nights.
 
