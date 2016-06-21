@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 HUGO_VERSION=0.16
-DOWNLOAD_FILE_NAME=${DOWNLOAD_FILE_NAME}.tgz
+DOWNLOAD_FILE_NAME=hugo_${HUGO_VERSION}_linux-64bit.tgz
 S3_BUCKET=cryptohack.net
 
 wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${DOWNLOAD_FILE_NAME}
