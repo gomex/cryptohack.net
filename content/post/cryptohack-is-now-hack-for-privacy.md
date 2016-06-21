@@ -29,8 +29,6 @@ I'm really keen to see where we can go, and I hope you'll join us for the ride.
 <a class="button" href="http://www.meetup.com/cryptohack/events/231390595/"><strong>Come to our next hack night!</strong></a>
 </p>
 
-Join us: https://cryptohack.herokuapp.com<br />
-Sign in: https://cryptohack.slack.com/messages/virtual-coworking
-
+Join us: https://cryptohack.herokuapp.com
 
 *Posted by [Andrew](https://twitter.com/whereismytaco)*
