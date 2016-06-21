@@ -1,7 +1,7 @@
 +++
 author = "andrew"
 date = "2016-06-21T21:57:34+10:00"
-draft = true
+draft = false
 title = "Cryptohack is now Hack for Privacy"
 +++
 
@@ -19,7 +19,7 @@ So we decided to change our name. We looked for one
 
 We asked the Cryptohack community to come up with a name to represent us. There was some great discussion. I love that we've built a community where we can have open, honest and productive debates.
 
-Now _Cryptohack_ is dead, long live **Hack for Privacy**. 
+Now _Cryptohack_ is dead, long live **Hack for Privacy**.
 
 Nothing else will change; we're the same community of software-makers using our skills to benefit privacy. Hopefully now our name shows who we really are.
 
