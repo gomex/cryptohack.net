@@ -23,10 +23,10 @@ Now _Cryptohack_ is dead, long live **Hack for Privacy**.
 
 Nothing else will change; we're the same community of software-makers using our skills to benefit privacy. Hopefully now our name shows who we really are.
 
-I'm really keen to see where we can go, and I hope you'll join us for the ride.
+I'm really keen to see where we can go, and I hope you'll join us for the ride. Our next hack night is on **Wednesday 29th June**.
 
 <p class="center">
-<a class="button" href="http://www.meetup.com/cryptohack/events/231390595/"><strong>Come to our next hack night!</strong></a>
+<a class="button" href="http://www.meetup.com/cryptohack/events/231390595/"><strong>RSVP</strong></a>
 </p>
 
 Join us: https://cryptohack.herokuapp.com
