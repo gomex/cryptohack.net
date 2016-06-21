@@ -2,14 +2,14 @@
 author = "andrew"
 date = "2016-06-21T21:57:34+10:00"
 draft = true
-title = "Cryptohack is now called Hack for Privacy"
+title = "Cryptohack is now Hack for Privacy"
 +++
 
 We are a movement of technologists who care about digital privacy enough to use our skills (be they development, design, analysis, testing, security, crypto, usability or writing) to make a difference. That means helping to build and improve software for everyday people to maintain their privacy online, and also establishing ourselves as a relevant and credible voice in the privacy debate.
 
-This community has been growing since we started, and we've been contributing to [Pixelated](https://pixelated-project.org), as well running meetups, talks, and virtual hack nights.
+This community has been growing, and we've been contributing to [Pixelated](https://pixelated-project.org), as well running meetups, talks, and virtual hack nights.
 
-But we had a problem! Cryptohack _sounds cool_, but it never really represented what we're about. Strong crypto is important for privacy, but so are usability, performance, delighter features, and everything else that goes into successful software. We need to attract many different groups of people to our movement, and we suspected that Cryptohack kept many of them away by making it seem we're just about the crypto.
+But we had a problem! Cryptohack _sounds cool_, but it never really represented what we're about. Strong crypto is important for privacy, but so are usability, performance, delighter features, and everything else that goes into successful software. We need to attract many different groups of people to our movement, and we suspected that Cryptohack kept many of them away by making it seem we're all about the crypto.
 
 So we decided to change our name. We looked for one
 
