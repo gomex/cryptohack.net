@@ -8,9 +8,9 @@ theme: hugo-zen
 
 params:
   logo: /images/cryptofist.png
-  twitter: https://twitter.com/cryptohacknet
-  facebook: https://www.facebook.com/cryptohacknet
-  meetup: https://www.meetup.com/cryptohack/
+  twitter: https://twitter.com/hackforprivacy
+  facebook: https://www.facebook.com/hackforprivacy/
+  meetup: https://www.meetup.com/hack-for-privacy/
   slackjoin: https://cryptohack.herokuapp.com
-  slack: https://cryptohack.slack.com
+  slack: https://hackforprivacy.slack.com
   rss: https://cryptohack.net/index.xml
