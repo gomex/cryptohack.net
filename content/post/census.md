@@ -9,7 +9,7 @@ Today is census day in Australia, usually a chance for Australians to help “co
 
 But the Australian Bureau of Statistics (ABS) has gradually introduced more invasive techniques to the census over the last few decades. This year, they topped it off by taking it online, extending their retention of identifying data and avoiding any external critique by privacy organisations. 
 
-The former head statistician of ABS, Bill McLennan, brilliantly explained how the census is becoming an instrument of mass surveillance in Australia. Rosie Williams [compared it to a stealth national identity system](https://whistleblower.network/2016/07/30/census-2016-the-digital-australia-card/), like the Australia Card, which Australia thoroughly rejected in 1987. 
+The former head statistician of ABS, Bill McLennan, brilliantly explained [how the census is becoming an instrument of mass surveillance in Australia](https://independentaustralia.net/life/life-display/privacy-and-the-2016-census,9279). Rosie Williams [compared it to a stealth national identity system](https://whistleblower.network/2016/07/30/census-2016-the-digital-australia-card/), like the Australia Card, which Australia thoroughly rejected in 1987. 
 
 Despite Malcolm Turnbull’s reassurance, there is no such thing as perfect security. The ABS has created a honeypot, a very attractive dataset of all our personal data from each census, linked with all our data at other agencies. 
 
