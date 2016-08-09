@@ -33,6 +33,6 @@ The ABS has repeatedly threatened people with fines. They have ignored public co
 
 The ABS should read up on the practice of [Datensparsamkeit](http://martinfowler.com/bliki/Datensparsamkeit.html) (data austerity); that is, collecting only the data you need, since the only way to totally prevent data being breached is to not have it in the first place.
 
-In the meantime, the ABS should delete their linkage keys so that census information cannot be reassociated to individuals, and should also conduct a full external review of the privacy impacts of the ABS’ changes to the census over the last few decades.
+In the meantime, the ABS should delete their linkage keys so that census information cannot be reassociated to individuals, and commission a full external review of the privacy impacts of the ABS’ changes to the census over the last few decades.
 
 If you would like some more depth about why the ABS has made the wrong decision with this edition of the census, there are great articles by former Deputy Privacy Commissioner for NSW [Anna Johnston](http://www.smh.com.au/comment/why-i-wont-be-filling-in-the-census-tomorrow-20160808-gqnapp.html) and IT consultant [Justin Warren](https://www.eigenmagic.com/2016/08/01/the-australian-census-2016-controversy/).
