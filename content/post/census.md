@@ -22,6 +22,7 @@ Here’s the evidence:
 * There have been [14 data breaches at the ABS since 2013](https://www.theguardian.com/australia-news/2016/jul/29/australian-bureau-of-statistics-reports-14-data-breaches-since-2013).
 * Contrary to the ABS claims, your census data appears to be [accessible in plain text by IBM](http://www.theregister.co.uk/2016/08/07/it_analyst_oz_census_data_processed_as_plain_text/) (a US company subject to the [PATRIOT Act](https://www.eff.org/issues/patriot-act)).
 * There have been some indicators of [shonky security protocols](http://www.itnews.com.au/news/abs-forced-to-defend-census-website-security-432176) on the online census. 
+* The ABS sends [passwords by email in plain text](https://twitter.com/OzgeSevindik/status/761462294278647809).
 
 **We are concerned that these are indicative of the census project’s overall approach to security.**
 
