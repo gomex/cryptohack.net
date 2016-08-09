@@ -1,7 +1,7 @@
 +++
 date = "2016-01-11T22:40:00+11:00"
 draft = false
-title = "Contribute - start cryptohacking now"
+title = "Contribute - start hacking for privacy now"
 +++
 
 As technologists, **we have the power** to help people protect their digital privacy.
