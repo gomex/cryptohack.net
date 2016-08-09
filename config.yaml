@@ -1,9 +1,9 @@
-baseURL: https://cryptohack.net
+baseURL: https://hackforprivacy.org
 relativeURLs: true
 canonifyURLs: true
 uglyURLs: true
 languageCode: en-us
-title: Cryptohack
+title: Hack for Privacy
 theme: hugo-zen
 
 params:
