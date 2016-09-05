@@ -3,11 +3,40 @@ date = "2016-04-27T20:17:00+10:00"
 draft = true
 title = "About Hack for Privacy"
 +++
+<style>
+.profile-pic {
+    max-width:140px;
+    margin-right:10px;
+    float: left;
+}
+</style>
 
-__Hack for Privacy is a network of technologists (designers, testers, analysts, developers, sysadmins, security specialists and writers) who care deeply enough about digital privacy to stand up and do something.__
 
-Where did Hack for Privacy start?
----------------------------
+Hack for Privacy is a network of technologists (designers, testers, analysts, developers, sysadmins, security specialists and writers) who care deeply enough about digital privacy to stand up and do something.
+
+# Who are the organisers?
+
+## Andrew Jones
+<img src="/images/cam.png" class="profile-pic" />
+Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
+
+## Cam Jackson
+<img src="/images/cam.png" class="profile-pic" />
+I was never too concerned with digital privacy, until I noticed I was second-guessing what I’d type into Google, because I didn’t know who was watching and recording. Then I started to find out that others felt the same, and read about the [chilling effect of mass surveillance](https://theintercept.com/2016/04/28/new-study-shows-mass-surveillance-breeds-meekness-fear-and-self-censorship/) on free thought and speech. As governments and corporations continue to extend their reach into our personal lives, we have an opportunity and a responsibility to defend our own, and others’ privacy.
+
+
+## Pam Rucinque
+<img src="/images/pam.png"  class="profile-pic" />
+I am a software developer. <br><br>
+I believe that we, as technologists, have a big responsibility when it comes to protect people's privacy. We need to create software in an ethical way, thinking of the implications when we decide what personal data we capture, how we use it, who we give access to it and how we protect it. We haven't been doing that and that needs to change.
+
+
+## Robin Doherty
+<img src="/images/cam.jpg"  class="profile-pic" />
+Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
+
+</br>
+# Where did Hack for Privacy start?
 
 Hack for Privacy (originally called Cryptohack) started in Melbourne at the end of 2015 after Robin and Andrew had been delivering privacy workshops to community organisations and the general public as part of the worldwide privacy movement. Though our work, we realised there were a big gaps in the usability of privacy tools.
 
@@ -15,7 +44,7 @@ There are some great tools out there, but they can be very hard to use if you’
 
 In our day jobs we make software easier to use all the time. What was missing was an obvious way for us to harness our technical skills, and the skills of our friends and colleagues to help make privacy tools easier to use.
 
-What we also realised that there was a key voice missing in the privacy debate. __The voice of technologists.__ 
+What we also realised that there was a key voice missing in the privacy debate. __The voice of technologists.__
 
 Technologists have the knowledge and skills to understand the tech and the risks that mass surveillance and corporate control of the internet pose to society. We also have the skills to create a digital world where everyone can choose what to share and what to keep private from government and corporate surveillance.
 
