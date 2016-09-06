@@ -27,12 +27,11 @@ I was never too concerned with digital privacy, until I noticed I was second-gue
 
 ## Pam Rucinque
 <img src="/images/pam.png"  class="profile-pic" />
-I am a software developer. <br><br>
-I believe that we, as technologists, have a big responsibility when it comes to protect people's privacy. We need to create software in an ethical way, thinking of the implications when we decide what personal data we capture, how we use it, who we give access to it and how we protect it. We haven't been doing that and that needs to change.
+Why am I here? It was the [Australian metadata retention law](http://www.smh.com.au/technology/technology-news/explainer-what-you-have-to-fear-or-not-from-metadata-laws-and-phone-bugs-20151023-gkgl5k.html) that did it for me. Having ISPs storing data from our communications to then give free access to it to a large amount of people is outrageous. Privacy has many angles though: I, for example, struggle a lot balancing how much privacy I am willing to give up in order to use Google’s tools. An, as techies, that's our biggest challenge. **We need to create incredible tools that also protect people’s privacy,** build software in an ethical way, thinking of the implications when we decide what personal data we capture, how we use it, who we give access to it and how we protect it. We haven't been doing that and that needs to change.
 
 
 ## Robin Doherty
-<img src="/images/cam.jpg"  class="profile-pic" />
+<img src="/images/cam.png"  class="profile-pic" />
 Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
 
 </br>
