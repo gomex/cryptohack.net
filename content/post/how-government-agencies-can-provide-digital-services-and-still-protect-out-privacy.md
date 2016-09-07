@@ -73,7 +73,7 @@ Estonia is pushing the boundaries of how a government can use technology to bene
 Perhaps with systems and legal protections like Estonia’s, we can finally leave behind the dark ages of paper forms and Australia Post for #census2021.
 
 
-## Sources:
+## Further reading on Estonia's digital Government:
 
   - https://www.lawfareblog.com/e-residency-estonia-part-i-wherein-i-apply-digitally-betray-my-country
   - http://estonianworld.com/security/right-mix-estonia-ensures-privacy-access-e-services-digital-age/
