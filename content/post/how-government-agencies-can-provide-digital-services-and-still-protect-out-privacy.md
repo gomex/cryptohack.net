@@ -12,7 +12,7 @@ In the lead up to census day, there were many discussions between folks concerne
 
 I believe in the power of technology to make things better. That’s why I became a software developer. I’ve spent my career building technology to help organisations become more efficient, so encouraging people to use the paper form felt like a backwards step (even if it was a necessary one given the circumstances). Coupled with the technical mishaps that accompanied the online census, I began to think about what would it take a government to become more [“digital”](https://www.youtube.com/watch?v=KuTSAeFhdZU) - to successfully govern and provide services online. Organisations like the ABS could save heaps of money by doing what they do online, and there should be no need for us to compromise our privacy in order to participate online. 
 
-I want to move the discussion beyond what we shouldn’t do, and start talking about what we could do, to take advantage of new technologies that would enhance efficiency and convenience and still give us control over our data. 
+**I want to move the discussion beyond what we shouldn’t do, and start talking about what we could do, to take advantage of new technologies that would enhance efficiency and convenience and still give us control over our data.**
 
 So, what would it take?
 
