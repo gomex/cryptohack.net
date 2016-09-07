@@ -16,6 +16,9 @@ I believe in the power of technology to make things better. That’s why I becam
 
 So, what would it take?
 
+<img src="/images/us-census-bureau.jpg" />
+<cite>Photo credit: <a href="https://www.flickr.com/photos/uscensusbureau/7024456499/in/photostream/">US Census Bureau on Flickr</a></cite>
+
 ## Legislation
 
 Online data stores are easy to abuse. To enable a digital government, we need strong legal guarantees of our privacy.
