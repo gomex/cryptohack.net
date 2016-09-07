@@ -44,13 +44,19 @@ The legislation should ensure:
 
 ## The right technology
 
-  0. The technology must provide practical implementations of the legislation such as a private, online dashboard so I can see where all my data is, and recent activities relating to my data, and I can revoke access to my data for the agencies I choose with the click of a button.
+  0. **The technology must provide practical implementations of the legislation.**
 
-  0. The systems must be decentralised and independent, but able to talk to each other. Like any successful modern organisation, government agencies need to innovate, and this means that they need to be able experiment with new technologies and approaches. If each agency owns its technology stack, it will be much easier to create environments that foster innovation (c.f. [microservices](http://martinfowler.com/articles/microservices.html)). Decentralisation also means that each agency has their own data stores, so they would be able to protect our data more effectively (including from other agencies). 
+    This might include a private, online dashboard so I can see where all my data is, and recent activities relating to my data, and I can revoke access to my data for the agencies I choose with the click of a button.
 
-  0. The systems must be backed by strong cryptography. We know [good crypto still works](https://techcrunch.com/2013/06/17/encrypting-your-email-works-says-nsa-whistleblower-edward-snowden/). It doesn’t guarantee privacy, but we can’t have privacy without it. 
+  0. **The systems must be decentralised and independent, but able to talk to each other.**
 
-  0. There must be a distributed, immutable record of data flows, and access records, so that I can audit who has accessed mydata.
+    Like any successful modern organisation, government agencies need to innovate, and this means that they need to be able experiment with new technologies and approaches. If each agency owns its technology stack, it will be much easier to create environments that foster innovation (c.f. [microservices](http://martinfowler.com/articles/microservices.html)). Decentralisation also means that each agency has their own data stores, so they would be able to protect our data more effectively (including from other agencies). 
+
+  0. **The systems must be backed by strong cryptography.**
+
+    We know [good crypto still works](https://techcrunch.com/2013/06/17/encrypting-your-email-works-says-nsa-whistleblower-edward-snowden/). It doesn’t guarantee privacy, but we can’t have privacy without it.
+
+  0. **There must be a distributed, immutable record of data flows, and access records, so that I can audit who has accessed my data.**
 
 With the right technology and legislation combined we could begin to trust in the system, and benefit from the government’s newfound affinity for technology.
 
