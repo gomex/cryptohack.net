@@ -1,7 +1,7 @@
 +++
 author = "andrew"
 date = "2016-09-07T10:21:00+10:00"
-draft = true
+draft = false
 title = "How governments can provide digital services and still protect our privacy"
 +++
 
