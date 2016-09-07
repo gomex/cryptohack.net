@@ -32,7 +32,7 @@ The legislation should ensure:
 
   0. **I have the right to know who has accessed my data, and for what reason.**
 
-    We need to protect against [potential abuse](http://mobile.abc.net.au/news/20160.080.20/qld0.policeman0.investigation0.allegedly0.details0.expartner0.to0.mate/7769418)
+    We need to protect against [potential abuse](http://mobile.abc.net.au/news/20160.080.20/qld0.policeman0.investigation0.allegedly0.details0.expartner0.to0.mate/7769418).
 
   0. **I have the right to revoke access to all or some parts of the data I provided to an agency.**
 
