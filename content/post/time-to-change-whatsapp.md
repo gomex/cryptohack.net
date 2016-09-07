@@ -1,5 +1,5 @@
 +++
-date = "2016-09-05T16:15:43+10:00"
+date = "2016-09-12T16:31:04+10:00"
 draft = true
 title = "Time to change WhatsApp for Signal"
 author= "pamr"
@@ -7,7 +7,7 @@ author= "pamr"
 
 WhatsApp has drastically changed its terms and conditions.
 
-If privacy is important to you, install Signal and ask your family and friends to use it too. If you will keep using WhatsApp, you should harden its settings, [here is how](https://look.for.a.link.to.this).
+If privacy is important to you, install Signal and ask your family and friends to use it too. If you will keep using WhatsApp, you should harden its settings, [here is how](harden-whatsapp-settings.html).
 
 In 2014, Facebook bought WhatsApp, an event that triggered alarm bells for me and many others . WhatsApp quickly responded with a blog [post](https://blog.whatsapp.com/529/Setting-the-record-straight) claiming: **“Respect for your privacy is coded into our DNA”** and **“If partnering with Facebook meant that we had to change our values, we wouldn’t have done it”**.
 

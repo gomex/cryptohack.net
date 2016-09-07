@@ -1,5 +1,5 @@
 +++
-date = "2016-09-07T16:31:04+10:00"
+date = "2016-09-12T16:31:04+10:00"
 draft = true
 title = "Whatsapp hardening recommendations (for Android and iOS)"
 author = "A friend of H4P"
@@ -9,7 +9,7 @@ These recommendations were taken from ["Operational WhatsApp on iOS"](https://me
 
 Ensure both ends are updated to the latest version of the app (update through the official app store only) :
 
-_As of 2016/09/02_ :
+_As of 2016/09/12_ :
 
 * Android **2.16.225**
 * iOS **2.16.9**
