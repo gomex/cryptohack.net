@@ -17,8 +17,8 @@ Hack for Privacy is a network of technologists (designers, testers, analysts, de
 # Who are the organisers?
 
 ## Andrew Jones
-<img src="/images/cam.png" class="profile-pic" />
-Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text. Text.
+<img src="/images/andrew.jpg" class="profile-pic" />
+Andrew is a co-founder of Hack for Privacy, activist and self-taught software developer. By day, Andrew works as a software consultant with everyone from startups to big enterprises to help them deliver software better. By night, Andrew helps other activists leverage technology to amplify their voices in their fights for social change. Since the Snowden revelations, Andrew has been focussed on helping activists maintain their privacy, since it is [very hard](https://www.giswatch.org/sites/default/files/the_harms_of_surveillance.pdf) to create social change without privacy.
 
 ## Cam Jackson
 <img src="/images/cam.png" class="profile-pic" />
