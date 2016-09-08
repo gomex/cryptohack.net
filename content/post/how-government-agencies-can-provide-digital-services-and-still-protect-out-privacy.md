@@ -83,6 +83,7 @@ Perhaps with systems and legal protections like Estonia’s, we can finally leav
 
 ## Related posts on Hack for Privacy
  - [Why the ABS won’t be able to protect our census data](/post/census.html)
+ - [Data retention is rubbish, and here's what you can do about it](/post/data-retention-is-rubbish.html)
 
 
 ## Further reading on Estonia's digital government:
