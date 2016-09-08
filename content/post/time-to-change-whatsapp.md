@@ -26,9 +26,8 @@ _“If you are an existing user, you can choose not to share your account inform
 
 Here is what you need to know:
 
-* By default you are sharing your information, you need to explicitly opt out. Here is how.
+* By default you are sharing your information, you need to explicitly opt out. [Here is how](https://www.whatsapp.com/faq/general/26000016).
 You need to **opt out before September 25**, if you haven’t opted out by then, you won’t be able to. ([see option 2 in their FAQs](https://www.whatsapp.com/faq/general/26000016)).
-
 
 * If you are a new user, you don’t have this choice
 
