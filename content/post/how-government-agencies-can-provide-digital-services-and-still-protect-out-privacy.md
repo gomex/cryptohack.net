@@ -94,4 +94,8 @@ Perhaps with systems and legal protections like Estonia’s, we can finally leav
 
 *Posted by [Andrew](https://twitter.com/whereismytaco)*
 
-Andrew is a co-founder of Hack for Privacy, activist and self-taught software developer. By day, Andrew works as a software consultant with everyone from startups to big enterprises to help them deliver software better. By night, Andrew helps other activists leverage technology to amplify their voices in their fights for social change. Since the Snowden revelations, Andrew has been focussed on helping activists maintain their privacy, since it is [very hard](https://www.giswatch.org/sites/default/files/the_harms_of_surveillance.pdf) to create social change without privacy.
+-------
+
+*Andrew is a co-founder of Hack for Privacy, activist and self-taught software developer. By day, Andrew works as a software consultant with everyone from startups to big enterprises to help them deliver software better. By night, Andrew helps other activists leverage technology to amplify their voices in their fights for social change. Since the Snowden revelations, Andrew has been focussed on helping activists maintain their privacy, since it is [very hard](https://www.giswatch.org/sites/default/files/the_harms_of_surveillance.pdf) to create social change without privacy.*
+
+-------
