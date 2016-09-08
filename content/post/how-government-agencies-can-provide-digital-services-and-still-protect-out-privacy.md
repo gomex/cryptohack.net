@@ -81,6 +81,9 @@ Estonia is pushing the boundaries of how a government can use technology to bene
 
 Perhaps with systems and legal protections like Estonia’s, we can finally leave behind the dark ages of paper forms and Australia Post for #census2021.
 
+## Related posts on Hack for Privacy
+ - [Why the ABS won’t be able to protect our census data](/post/census.html)
+
 
 ## Further reading on Estonia's digital government:
 
