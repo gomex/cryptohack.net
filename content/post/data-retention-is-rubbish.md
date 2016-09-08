@@ -43,7 +43,7 @@ Live in Melbourne? Come to our [2016 kick off meetup](http://www.meetup.com/cryp
 
 <p class="center"><a class="button" href="http://www.meetup.com/cryptohack-melbourne/events/227170695/"><strong>RSVP</strong></a></p>
 
-Follow [@cryptohacknet](https://twitter.com/cryptohacknet) and me [@rdoh](https://twitter.com/rdoh) on Twitter. 
+Follow [@hackforprivacy](https://twitter.com/hackforprivacy) and me [@rdoh](https://twitter.com/rdoh) on Twitter. 
 
 
 *Posted by [Robin](http://robindoherty.com)*
