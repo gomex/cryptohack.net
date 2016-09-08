@@ -5,7 +5,7 @@ draft = false
 title = "How governments can provide digital services and still protect our privacy"
 +++
 
-The Australian Bureau of Statistics (ABS) has decided that census data should no longer be anonymous, and our names and addresses should be linked deterministically to our responses into the future. This is a [bad](/post/census.html) [idea](https://3583bytesready.net/2016/08/11/census-problems-slk-security-explained/). Not that this is [the](https://www.theguardian.com/business/grogonomics/2016/aug/11/lesson-of-censusfail-continued-funding-cuts-mean-agencies-cant-do-their-job) [only](https://twitter.com/riskybusiness/status/763605906047107073) 
+The Australian Bureau of Statistics (ABS) has decided that census data should no longer be anonymous, and our names and addresses should be linked deterministically to our responses into the future. This is a [bad](/post/census.html) [idea](https://3583bytesready.net/2016/08/11/census-problems-slk-security-explained/), and not [the](https://www.theguardian.com/business/grogonomics/2016/aug/11/lesson-of-censusfail-continued-funding-cuts-mean-agencies-cant-do-their-job) [only](https://twitter.com/riskybusiness/status/763605906047107073) 
 [reason](https://twitter.com/Qldaah/status/763307636687196160) the 2016 census turned into [#censusfail](https://twitter.com/search?q=%23censusfail).
 
 In the lead up to census day, there were many discussions between folks concerned about their privacy about what we could do to protect it. The consensus was that the best way to protect our privacy would be to complete the paper version rather than the online form so we could omit our names and addresses. 
