@@ -1,6 +1,6 @@
 +++
 date = "2016-09-20T21:00:04+10:00"
-draft = true
+draft = false
 title = "WhatsApp puts advertisers first, users second -- time to switch to Signal"
 +++
 
@@ -60,12 +60,21 @@ And let’s not forget who Facebook’s data is [shared with](https://en.wikiped
 
 Given WhatsApp’s change of values, it is time to move on and start using Signal (for [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) or [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)), an app that allows you to communicate privately with your friends and family, without advertisers and other businesses siphoning off your information.
 
-Of course, the only reason to use Signal (or WhatsApp) is to talk to other people, so if you’re convinced of Signal’s value, it’s now time to convince your friends and family! We’ve put together these images to help you -- please share them far and wide.
+Of course, the only reason to use Signal (or WhatsApp) is to talk to other people, so if you’re convinced of Signal’s value, it’s now time to convince your friends and family! We’ve put together these social media posts to help you -- please share them far and wide.
 
 <a name="posters"></a>
 ## Tell your family and friends
 
-Links to follow.
+### On this day...
+<img src="/images/whatsapp-back-to-the-future.jpg" />
+
+*Privacy? Where we're going we don't need privacy.* 
+
+Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal. More on what’s happening, here: https://hackforprivacy.org/post/whatsapp.html.
+
+[Share this on Facebook](https://www.facebook.com/hackforprivacy/photos/p.1595721904066706/1595721904066706/?type=3&theater)
+
+### 
 
 *Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque)*
 
