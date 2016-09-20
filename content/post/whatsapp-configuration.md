@@ -1,22 +1,15 @@
 +++
-date = "2016-09-12T16:31:04+10:00"
+date = "2016-09-20T11:31:00+10:00"
 draft = true
-title = "Whatsapp hardening recommendations (for Android and iOS)"
+title = "Whatsapp configuration (for Android and iOS)"
 author = "A friend of H4P"
 +++
 
 These recommendations were taken from ["Operational WhatsApp on iOS"](https://medium.com/@thegrugq/operational-whatsapp-on-ios-ce9a4231a034#.8hw8ec6ob) and replicated for Android.
 
-Ensure both ends are updated to the latest version of the app (update through the official app store only) :
-
-_As of 2016/09/12_ :
-
-* Android **2.16.225**
-* iOS **2.16.9**
-
 ---
 
-## Android - 7 settings to care about:
+## Android -- 7 settings to care about:
 
 **If there is any safety concern:**<br>
 Settings >> chats >> chat history >> delete all chats
@@ -45,7 +38,7 @@ The name entry here is what is displayed in the recipient’s notifications. Fee
 
 ---
 
-## iPhone - 5 settings to care about:
+## iPhone -- 5 settings to care about:
 
 **If there is any safety concern:**<br>
 Settings >> Chats >>  Delete all chats
@@ -71,7 +64,7 @@ The name entry here is what is displayed in the recipient’s notifications. Fee
 
 ---
 
-## General phone safety - 3 tips:
+## General phone safety -- 4 tips:
 
 0. Be conscious of physical access to the device
 
