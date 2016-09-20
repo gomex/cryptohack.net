@@ -4,7 +4,7 @@ draft = false
 title = "WhatsApp puts advertisers first, users second -- time to switch to Signal"
 +++
 
-WhatsApp have abandoned their values -- they will now allow businesses to contact you, and they’ll share your phone number, your contacts, the last time you used the app, and [more](https://www.whatsapp.com/legal/#privacy-policy-information-we-collect), with their parent company -- Facebook. This from a company that, only two years ago, at the time of the Facebook acquisition, [said](https://blog.whatsapp.com/529/Setting-the-record-straight) “Respect for your privacy is coded into our DNA”. Sorry, WhatsApp, this is not how DNA works.
+WhatsApp will now allow businesses to contact you, and they’ll share your phone number, your contacts, the last time you used the app, and [more](https://www.whatsapp.com/legal/#privacy-policy-information-we-collect), with their parent company -- Facebook. This from a company that, only two years ago, at the time of the Facebook acquisition, [said](https://blog.whatsapp.com/529/Setting-the-record-straight) “Respect for your privacy is coded into our DNA”. Sorry, WhatsApp, this is not how DNA works.
 
 Fortunately, there is a very good alternative, and it’s just as easy to use -- Signal Private Messenger (for [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) or [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)). If you would like more control of your information, install the Signal app and get your friends and family onto it -- we’ve included some persuasive images to help you with that at the [bottom of this page](#posters). 
 
@@ -88,3 +88,18 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 
 -------
 
+<!-- Twitter Card data -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@hackforprivacy">
+<meta name="twitter:title" content="WhatsApp puts advertisers first, users second -- time to switch to Signal">
+<meta name="twitter:description" content="WhatsApp will now allow businesses to contact you, and they’ll share your phone number, your contacts, the last time you used the app, and more, with their parent company -- Facebook.">
+<meta name="twitter:creator" content="@hackforprivacy">
+<meta name="twitter:image" content="http://hackforprivacy.org/images/whatsapp.png">
+
+<!-- Open Graph data -->
+<meta property="og:title" content="WhatsApp puts advertisers first, users second -- time to switch to Signal" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://hackforprivacy.org/post/whatsapp.html" />
+<meta property="og:image" content="http://hackforprivacy.org/images/whatsapp.png" />
+<meta property="og:description" content="WhatsApp will now allow businesses to contact you, and they’ll share your phone number, your contacts, the last time you used the app, and more, with their parent company -- Facebook." /> 
+<meta property="og:site_name" content="Hack for Privacy" />
