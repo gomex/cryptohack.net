@@ -76,18 +76,6 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 
 *Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque)*
 
--------
-
-*Robin is a co-founder of Hack for Privacy and a software developer. He has observed a disregard for privacy and security of users’ data, and blissful ignorance of the principle of Datensparsamkeit, both in his own work and others’. This, combined with Snowden’s revelations of 2013, led him to the realisation that the software industry is culpable in the demise of privacy, and most people in the industry are in denial about their own role in mass surveillance.*
-
-*Pam is a software developer who believes that we, as technologists, have a big responsibility when it comes to protecting people's privacy. She believes that we need to create software in an ethical way, thinking of the implications when we decide what personal data we capture, how we use it, who we give access to it and how we protect it.*
-
--------
-
-*Hack for Privacy has been contributing to the development of [Pixelated](https://pixelated-project.org), an open source privacy-focused email project, since September 2015. Our members have been running [cryptoparties](https://www.cryptoparty.in/) in Melbourne for the last few years, and making noise about privacy-related issues in Australia such as [data retention](/post/data-retention-is-rubbish.html) and [census linkage](/post/census.html).*
-
--------
-
 <!-- Twitter Card data -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@hackforprivacy">
