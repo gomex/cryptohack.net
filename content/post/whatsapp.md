@@ -55,7 +55,7 @@ Anyone can look at how the application is built and make sure it is safe, or sug
 
 Facebook builds profiles of our day-to-day lives in order to sell hyper-targeted advertising. They paid $19bn for WhatsApp, and now we see why. Facebook collects a lot of personal information about its 1.5 billion users, and with each [company](https://www.facebook.com/help/111814505650678) they buy, they get a little bit more. These profiles enable their business model, and it’s in their interest to make them as accurate as possible. But building these profiles does not necessarily benefit users -- with Facebook and WhatsApp, you are the product. 
 
-And let’s not forget who Facebook’s data is [shared with](https://en.wikipedia.org/wiki/PRISM_(surveillance_program).
+And let’s not forget who Facebook’s data is [shared with](https://en.wikipedia.org/wiki/PRISM_(surveillance_program))
 
 ## Moving on
 
