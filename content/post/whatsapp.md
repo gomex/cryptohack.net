@@ -72,7 +72,9 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 
 [Share this on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
 
-### 
+
+
+-----
 
 *Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque)*
 
