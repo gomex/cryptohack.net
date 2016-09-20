@@ -8,7 +8,7 @@ WhatsApp have abandoned their values -- they will now allow businesses to contac
 
 Fortunately, there is a very good alternative, and it’s just as easy to use -- Signal Private Messenger (for [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) or [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)). If you would like more control of your information, install the Signal app and get your friends and family onto it -- we’ve included some persuasive images to help you with that at the [bottom of this page](#posters). 
 
-By the way, if you still need to use WhatsApp, here’s how you can set it up to [share slightly less](/post/whatsapp-configuration.html) of your personal information.
+By the way, if you still need to use WhatsApp, here’s how you can set it up to [share slightly less](https://medium.com/@thegrugq/operational-whatsapp-on-ios-ce9a4231a034#.8hw8ec6ob) of your personal information.
 
 ## So, what changed in terms of privacy?
 
