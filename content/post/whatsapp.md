@@ -14,7 +14,7 @@ By the way, if you still need to use WhatsApp, here’s how you can set it up to
 
 Two years after the Facebook acquisition, on 25th August 2016, WhatsApp changed its Terms and Privacy Policy and we all saw this message on our phones. Many of us just tapped on “Agree” without thinking twice, as we have unfortunately been [trained](http://darkpatterns.org/) to do. But this change is big and, in our opinions, dangerous.
 
-<img src="images/whatsapp.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;"/>
+<img src="/images/whatsapp.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
 
 **WhatsApp [says](https://www.whatsapp.com/faq/en/general/28030011) you can choose not to share your information if you are an existing user. But this is quite deceptive.**
 
@@ -37,7 +37,7 @@ Isn’t there a better way?
 
 Signal Private Messenger is an open source secure messaging application, developed by [Open Whisper Systems](https://en.wikipedia.org/wiki/Open_Whisper_Systems), who created the excellent [protocols](https://whispersystems.org/blog/advanced-ratcheting/) that other popular messenger apps have recently adopted to encrypt conversations. Its founder, Moxie Marlinspike, is a well-respected security researcher and a longtime advocate for [private communication made simple](https://vimeo.com/124887048).
 
-<img src="images/signal.jpg"/>
+<img src="/images/signal.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
 
 ### You are not the product
 
@@ -69,7 +69,7 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 [images and sharing links]
 
 
-**Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque)**
+*Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque)*
 
 -------
 
