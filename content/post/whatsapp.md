@@ -1,5 +1,5 @@
 +++
-date = "2016-09-20T11:31:04+10:00"
+date = "2016-09-20T21:00:04+10:00"
 draft = true
 title = "WhatsApp puts advertisers first, users second -- time to switch to Signal"
 +++
@@ -23,7 +23,6 @@ Two years after the Facebook acquisition, on 25th August 2016, WhatsApp changed 
 * New users don’t have this choice -- do you want your friends to sign up to a service that doesn’t offer them control of their own information? 
 
 * Throughout the policy, WhatsApp uses the phrase “to improve your Facebook ads and products experiences”. Even if you opt out of the data being used in this way, it is still collected and stored, and will be used [in other ways](https://www.whatsapp.com/faq/en/general/28030011).
-
 
 Sharing your personal information by default, giving you a deadline for opting out, and denying new users a choice doesn’t sound like “Respect for your privacy is coded into our DNA”.
 
@@ -76,6 +75,8 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 *Robin is a co-founder of Hack for Privacy and a software developer. He has observed a disregard for privacy and security of users’ data, and blissful ignorance of the principle of Datensparsamkeit, both in his own work and others’. This, combined with Snowden’s revelations of 2013, led him to the realisation that the software industry is culpable in the demise of privacy, and most people in the industry are in denial about their own role in mass surveillance.*
 
 *Pam is a software developer who believes that we, as technologists, have a big responsibility when it comes to protecting people's privacy. She believes that we need to create software in an ethical way, thinking of the implications when we decide what personal data we capture, how we use it, who we give access to it and how we protect it.*
+
+-------
 
 *Hack for Privacy has been contributing to the development of [Pixelated](https://pixelated-project.org), an open source privacy-focused email project, since September 2015. Our members have been running [cryptoparties](https://www.cryptoparty.in/) in Melbourne for the last few years, and making as much noise as possible about privacy-related issues in Australia such as [data retention](/post/data-retention-is-rubbish.html) and [census linkage](/post/census.html).*
 
