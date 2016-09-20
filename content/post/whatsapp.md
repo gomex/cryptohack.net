@@ -44,7 +44,7 @@ Signal is supported by donations and grants. They don’t have a business model 
 
 ### Private texts and calls
 
-All messages and calls are private. Signal doesn’t have access to your conversations and no one else does either. In fact, unlike WhatsApp, Signal doesn’t even keep data on [who talks to whom](https://en.wikipedia.org/wiki/Signal_(software\)#Metadata).
+All messages and calls are private. Signal doesn’t have access to your conversations and no one else does either. In fact, unlike WhatsApp, Signal doesn’t even keep data on [who talks to whom](https://en.wikipedia.org/wiki/Signal_(software)#Metadata).
 
 ### It is open source
 
@@ -54,7 +54,7 @@ Anyone can look at how the application is built and make sure it is safe, or sug
 
 Facebook builds profiles of our day-to-day lives in order to sell hyper-targeted advertising. They paid $19bn for WhatsApp, and now we see why. Facebook collects a lot of personal information about its 1.5 billion users, and with each [company](https://www.facebook.com/help/111814505650678) they buy, they get a little bit more. These profiles enable their business model, and it’s in their interest to make them as accurate as possible. But building these profiles does not necessarily benefit users -- with Facebook and WhatsApp, you are the product. 
 
-And let’s not forget who Facebook’s data is [shared with](https://en.wikipedia.org/wiki/PRISM_(surveillance_program\)).
+And let’s not forget who Facebook’s data is [shared with](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)).
 
 ## Moving on
 
@@ -68,9 +68,7 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 ### On this day...
 <img src="/images/whatsapp-back-to-the-future.jpg" />
 
-*Privacy? Where we're going we don't need privacy.* 
-
-Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal. More on what’s happening, here: https://hackforprivacy.org/post/whatsapp.html.
+*Privacy? Where we're going we don't need privacy.* Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal. More on what’s happening, here: https://hackforprivacy.org/post/whatsapp.html.
 
 [Share this on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
 
