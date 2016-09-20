@@ -84,7 +84,7 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 
 -------
 
-*Hack for Privacy has been contributing to the development of [Pixelated](https://pixelated-project.org), an open source privacy-focused email project, since September 2015. Our members have been running [cryptoparties](https://www.cryptoparty.in/) in Melbourne for the last few years, and making as much noise as possible about privacy-related issues in Australia such as [data retention](/post/data-retention-is-rubbish.html) and [census linkage](/post/census.html).*
+*Hack for Privacy has been contributing to the development of [Pixelated](https://pixelated-project.org), an open source privacy-focused email project, since September 2015. Our members have been running [cryptoparties](https://www.cryptoparty.in/) in Melbourne for the last few years, and making noise about privacy-related issues in Australia such as [data retention](/post/data-retention-is-rubbish.html) and [census linkage](/post/census.html).*
 
 -------
 
