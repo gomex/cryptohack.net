@@ -66,7 +66,7 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 ## Tell your family and friends
 
 ### On this day...
-<img src="/images/whatsapp-back-to-the-future.jpg" />
+<img src="/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
 *Privacy? Where we're going we don't need privacy.* Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal. More on what’s happening, here: https://hackforprivacy.org/post/whatsapp.html.
 
