@@ -67,19 +67,18 @@ Given WhatsApp’s change of values, it is time to move on and start using Signa
 Of course, the only reason to use Signal (or WhatsApp) is to talk to other people, so if you’re convinced of Signal’s value, it’s now time to convince your friends and family! We’ve put together these social media posts to help you -- please share them far and wide.
 
 
-### Reasons...
+### Pause this and find a reason to switch from WhatsApp to Signal
 <img src="/images/whatsapp-signal-reasons.gif"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
-[Share this on Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
+ * [Share "Pause this and find a reason to switch from WhatsApp to Signal" on Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
+ * Or download as a [video](/videos/whatsapp-signal-reasons.mp4).
 
-Also available to download as a [video](/videos/whatsapp-signal-reasons.mp4).
-
-### On this day...
+### Privacy? Where we’re going we don’t need privacy.
 <img src="/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
 *Privacy? Where we're going we don't need privacy.* Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal...
 
-[Share this on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
+ * [Share "Privacy? Where we’re going we don’t need privacy." on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
 
 -----
 
