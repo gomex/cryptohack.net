@@ -65,8 +65,7 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 <a name="posters"></a>
 ## Tell your family and friends
 
-[images and sharing links]
-
+Links to follow.
 
 *Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque)*
 
