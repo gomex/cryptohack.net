@@ -56,19 +56,28 @@ Facebook builds profiles of our day-to-day lives in order to sell hyper-targeted
 
 And let’s not forget who Facebook’s data is [shared with](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)).
 
+
 ## Moving on
 
 Given WhatsApp’s change of values, it is time to move on and start using Signal (for [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) or [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)), an app that allows you to communicate privately with your friends and family, without advertisers and other businesses siphoning off your information.
 
+<a name="posters"></a>
+**Tell your friends and family**
+
 Of course, the only reason to use Signal (or WhatsApp) is to talk to other people, so if you’re convinced of Signal’s value, it’s now time to convince your friends and family! We’ve put together these social media posts to help you -- please share them far and wide.
 
-<a name="posters"></a>
-## Tell your family and friends
+
+### Reasons...
+<img src="/images/whatsapp-signal-reasons.gif"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
+
+[Share this on Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
+
+Also available to download as a [video](/videos/whatsapp-signal-reasons.mp4).
 
 ### On this day...
 <img src="/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
-*Privacy? Where we're going we don't need privacy.* Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal. More here...
+*Privacy? Where we're going we don't need privacy.* Wrong. You have until this Sunday (25th September) to change your WhatsApp settings, and switch to Signal...
 
 [Share this on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
 
