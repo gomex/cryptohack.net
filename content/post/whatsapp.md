@@ -24,9 +24,7 @@ Two years after the Facebook acquisition, on 25th August 2016, WhatsApp changed 
 
 * Throughout the policy, WhatsApp uses the phrase “to improve your Facebook ads and products experiences”. Even if you opt out of the data being used in this way, it is still collected and stored, and will be used [in other ways](https://www.whatsapp.com/faq/en/general/28030011).
 
-Sharing your personal information by default, giving you a deadline for opting out, and denying new users a choice doesn’t sound like “Respect for your privacy is coded into our DNA”.
-
-**WhatsApp is no longer WhatsApp. It is Facebook.**
+Sharing your personal information by default, giving you a deadline for opting out, and denying new users a choice doesn’t sound like “Respect for your privacy is coded into our DNA”. It sounds like WhatsApp has been assimilated. 
 
 [Privacy Zuckering](http://darkpatterns.org/facebook-com-august-2010/) is a phrase that was coined when Facebook introduced its woefully complicated privacy configuration, ensuring they could continue to benefit from our misunderstanding. Now they’ve Zuckered all over WhatsApp too.
 
@@ -66,12 +64,15 @@ Given WhatsApp’s change of values, it is time to move on and start using Signa
 
 Of course, the only reason to use Signal (or WhatsApp) is to talk to other people, so if you’re convinced of Signal’s value, it’s now time to convince your friends and family! We’ve put together these social media posts to help you -- please share them far and wide.
 
+<div class="hr"></div>
 
 ### Pause this and find a reason to switch from WhatsApp to Signal
 <img src="/images/whatsapp-signal-reasons.gif"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
  * [Share "Pause this and find a reason to switch from WhatsApp to Signal" on Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
  * Or download as a [video](/videos/whatsapp-signal-reasons.mp4).
+
+<div class="hr"></div>
 
 ### Privacy? Where we’re going we don’t need privacy.
 <img src="/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
