@@ -4,11 +4,11 @@ draft = true
 title = "WhatsApp prefirió la publicidad a los usuarios. Es tiempo de cambiarse a 'Signal'"
 +++
 
-WhatsApp cambió sus principios. Una compañía que apenas hace dos años declaraba que "La seguridad y privacidad de nuestros usuarios forman parte de nuestro ADN", ahora compartirá los datos de sus usuarios (número de teléfono, contactos, [entre otros](link)) con Facebook, grupo del que ahora forma parte. Lo siento WhatsApp, pero así no es como funciona el ADN.
+WhatsApp cambió sus principios. Una compañía que apenas hace dos años declaraba que "La seguridad y privacidad de nuestros usuarios forman parte de nuestro ADN", ahora compartirá los datos de sus usuarios (número de teléfono, contactos, [entre otros](https://www.whatsapp.com/legal/#privacy-policy-information-we-collect)) con Facebook, grupo del que ahora forma parte. Lo siento WhatsApp, pero así no es como funciona el ADN.
 
 Afortunadamente, hay una buena alternativa: **Signal** (Para [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ó [iPhone](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)). Si quiere tener más control sobre su información personal, instale esta apliación e invite a su familia y amigos a que hagan lo mismo.
 
-Por cierto, si le toca seguir usando WhatsApp, [aquí]((https://medium.com/@thegrugq/operational-whatsapp-on-ios-ce9a4231a034#.8hw8ec6ob)) encontrará instrucciones de cómo configurarlo para compartir menos de su información personal.
+Por cierto, si le toca seguir usando WhatsApp, [aquí](https://medium.com/@thegrugq/operational-whatsapp-on-ios-ce9a4231a034#.8hw8ec6ob) encontrará instrucciones de cómo configurarlo para compartir menos de su información personal.
 
 ## Pero, ¿Qué cambió con respecto a la privacidad?
 
@@ -60,4 +60,4 @@ Por supuesto, el único motivo para usar Signal (o WhatsApp) es para hablar con 
 
 *Publicado [originalmente](/post/whatsapp.html) por [Robin Doherty](https://robindoherty.com) y [Pam Rucinque](https://pamrucinque.com)*
 
-*Traducido por [Pam Rucinque](https://pamrucinque.com)
+*Traducido por [Pam Rucinque](https://pamrucinque.com)*
