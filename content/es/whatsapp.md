@@ -1,6 +1,6 @@
 +++
 date = "2016-09-20T22:23:18+10:00"
-draft = true
+draft = false
 title = "WhatsApp prefirió la publicidad a los usuarios. Es tiempo de cambiarse a 'Signal'"
 +++
 
