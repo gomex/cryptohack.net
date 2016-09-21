@@ -44,7 +44,7 @@ Todos las llamadas y mensajes son privados. Ni Signal, ni nadie, tiene acceso a 
 
 ### Es de código abierto (Open Source)
 
-Cualquier persona puede revisar como está construida la aplicación para revisar que sea segura o sugerir formas de mejorarla. Ésta es la manera apropiada de validar la seguridad de un producto, de forma transparente.
+Cualquier persona puede ver cómo está construida la aplicación para revisar que sea segura o sugerir formas de mejorarla. Ésta es la manera apropiada de validar la seguridad de un producto, de forma transparente.
 
 ## ¿Por qué es imporante todo esto?
 
