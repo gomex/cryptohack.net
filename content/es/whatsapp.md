@@ -28,7 +28,7 @@ Compartir su información personal por defecto, darle un plazo máximo para eleg
 
 ¿No hay entonces una mejor opción?
 
-# Conozca a Signal
+# Signal
 
 Signal es una aplicación de mensajería segura, desarrollada por [Open Whisper Systems](https://en.wikipedia.org/wiki/Open_Whisper_Systems), quienes crearon los excelentes protocolos de comunicación que otras mensajerías populares adoptaron para encriptar sus conversaciones. Su fundador, Moxie Maslinspike, es un respetado experto en seguridad informática que por mucho tiempo ha sido defensor y abanderado de la [comunicación segura, privada y simple]((https://vimeo.com/124887048)).
 
