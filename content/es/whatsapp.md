@@ -56,7 +56,7 @@ Y no olvidemos con [quien más](https://es.wikipedia.org/wiki/PRISM) comparte Fa
 
 Dado que WhatsApp renunció a sus principios, es hora de cambiarse a Signal (Para [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ó [iPhone](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)), una aplicación que le permite comunicarse privadamente con sus amigos y familia, sin tener que preocuparse por publicidad o por otras compañías extrayendo su información.
 
-Por supuesto, el único motivo para usar Signal (o WhatsApp) es para hablar con otras personas, así que si está convencido del valor que Signal provee, es hora de convencer a sus amigos y familiares!
+Por supuesto, el único motivo para usar Signal (o WhatsApp) es para hablar con otras personas, así que si cree en el valor que Signal provee, es hora de convencer a sus amigos y familiares!
 
 *Publicado [originalmente](/post/whatsapp.html) por [Robin Doherty](https://robindoherty.com) y [Pam Rucinque](https://pamrucinque.com)*
 
