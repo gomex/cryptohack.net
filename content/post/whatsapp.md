@@ -74,6 +74,13 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 
 <div class="hr"></div>
 
+### Friends don't let friends use WhatsApp. Friends use Signal
+<img src="/images/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
+
+ * [Share "Friends don't let friends use WhatsApp. Friends use Signal" on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
+
+<div class="hr"></div>
+
 ### Privacy? Where we’re going we don’t need privacy.
 <img src="/images/whatsapp-back-to-the-future.jpg"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
