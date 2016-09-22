@@ -91,7 +91,7 @@ Of course, the only reason to use Signal (or WhatsApp) is to talk to other peopl
 
 -----
 
-*Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque). Also available in [Spanish](/es/whatsapp.html).*
+*Posted by [Robin Doherty](https://robindoherty.com) and [Pam Rucinque](https://twitter.com/pamrucinque). Also available in [Spanish](/es/whatsapp.html) and [Portuguese](/pt/whatsapp.html).*
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" content="summary">
