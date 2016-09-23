@@ -4,20 +4,22 @@ draft = false
 title = "WhatsApp coloca publicidade acima de seus usuários - hora de mudar para o Signal"
 +++
 
-A partir de agora o WhatsApp vai permitir que empresas entrem em contato com você. Além disso, eles vão poder compartilhar com o Facebook seu telefone, contatos, a última vez que você usou o aplicativo e [mais](https://www.whatsapp.com/legal/#privacy-policy-information-we-collect). Isso vindo de um mensageiro que, ao ser comprado pelo Facebook há dois anos, [afirmava](https://blog.whatsapp.com/529/Setting-the-record-straight) que o "Respeito pela sua privacidade está em nosso DNA". Desculpa, WhatsApp, mas não é assim que o DNA funciona.
+A partir de agora o WhatsApp vai permitir que empresas entrem em contato com você. Além disso, eles vão poder compartilhar com o Facebook seu telefone, contatos, a última vez que você usou o aplicativo e [mais](https://www.whatsapp.com/legal/#privacy-policy-information-we-collect). Isso vindo de um mensageiro que, ao ser comprado pelo Facebook há dois anos, [afirmava](https://blog.whatsapp.com/529/Setting-the-record-straight) que o "Respeito à sua privacidade está em nosso DNA". Desculpa, WhatsApp, mas não é assim que o DNA funciona.
 
-Felizmente, existe uma outra alternativa muito boa de aplicativo, tão fácil de usar quanto o WhatsApp, chamado Signal Private Messenger (para [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ou [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)). Se você quer ter mais controle sobre as suas informações, instale o Signal e convide seus amigos e familiares - mais [embaixo nesse post](#posters) a gente já disponibilizou algumas imagens que podem ajudar. Mas se você absolutamente tiver que usar o WhatsApp, aqui você pode ver como [compartilhar um pouco menos](https://medium.com/@thegrugq/operational-whatsapp-on-ios-ce9a4231a034#.8hw8ec6ob) de informação pessoal com eles.
+Felizmente, existe uma outra alternativa muito boa de aplicativo, tão fácil de usar quanto o WhatsApp, chamado Signal Private Messenger (para [Android](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) ou [iOS](https://itunes.apple.com/us/app/signal-private-messenger/id874139669)). Se você quer ter mais controle sobre as suas informações, instale o Signal e convide seus amigos e familiares - mais [embaixo nesse post](#posters) a gente já disponibilizou algumas imagens que podem ajudar. 
+
+A propósito, se você ainda precisa usar o WhatsApp, aqui você pode ver como [compartilhar um pouco menos](https://medium.com/@thegrugq/operational-whatsapp-on-ios-ce9a4231a034#.8hw8ec6ob) de informação pessoal com eles.
 
 
 ## Então, o que mudou em termos de privacidade? ?
 
-Dois anos depois da aquisição pelo Facebook, dia 25 de Agosto de 2016, o WhatsApp mudou seus Termos de Privacidade e enviou uma mensagem para seus usuários. Muitos simplesmente clicaram "Concordo" sem pensar duas vezes, como nós, infelizmente, têm sido [treinados](http://darkpatterns.org/) para fazê-lo. Mas essa mudança foi grande e, na nossa opinião, perigosa. 
+Dois anos depois da aquisição pelo Facebook, dia 25 de Agosto de 2016, o WhatsApp mudou seus Termos de Privacidade e enviou uma mensagem para seus usuários. Muitos simplesmente clicaram "Concordo" sem pensar duas vezes, como nós, infelizmente, temos sido [treinados](http://darkpatterns.org/) para fazê-lo. Mas essa foi uma grande mudança e, na nossa opinião, perigosa. 
 
 <img src="/images/whatsapp.png" style="max-width:200px; margin-left:auto; margin-right:auto; display:block;" />
 
 **WhatsApp [diz](https://www.whatsapp.com/faq/en/general/28030011) que você pode escolher não compartilhar a sua informação, caso você já seja um usuário do aplicativo. Mas é tudo muito nebuloso.**
 
-* Por padrão, você vai estar compartilhando sua informação - é necessário dar [opt out](https://www.whatsapp.com/faq/general/26000016) **até o fim dessa semana**, no dia 25 de setembro. 
+* Por padrão, você vai estar compartilhando sua informação - é necessário [desmarcar esta opção](https://www.whatsapp.com/faq/general/26000016) **até o fim dessa semana**, no dia 25 de setembro. 
 
 
 * Novos usuários não terão essa opção - você quer mesmo que seus amigos usem um serviço que não oferece o controle de suas próprias informações? 
@@ -69,15 +71,15 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 ### Pare com isso e encontre uma razão para mudar do WhatsApp para Signal
 <img src="/images/whatsapp-signal-reasons.gif"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
- * [Compartilhe "Pare com isso e encontre uma razão para mudar do WhatsApp para Signal" on Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
+ * [Compartilhe "Pare com isso e encontre uma razão para mudar do WhatsApp para Signal" no Facebook](https://www.facebook.com/hackforprivacy/videos/1595747707397459/)
  * Ou baixe o [vídeo](/videos/whatsapp-signal-reasons.mp4)
 
 <div class="hr"></div>
 
-### Amigos, não deixe que seus amigos usem WhatsApp. Amigos usam Signal
+### Amigos não deixam amigos usar WhatsApp. Amigos usam Signal
 <img src="/images/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
- * [Share "Amigos, não deixe que seus amigos usem WhatsApp. Amigos usam Signal" on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
+ * [Compartilhe "Amigos não deixam amigos usar WhatsApp. Amigos usam Signal" no Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
 
 <div class="hr"></div>
 
@@ -86,8 +88,8 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 
 *Privacidade? O que estamos fazendo não precisa de privacidade.* Errado. Você tem até esse domingo (25 de  setembro) para trocar suas configurações do WhatsApp e trocar para o Signal...
 
- * [Share "Privacidade? O que estamos fazendo não precisa de privacidade." on Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
- * [Retweet no Twitter](https://twitter.com/hackforprivacy/status/778219464726761472)
+ * [Compartilhe "Privacidade? O que estamos fazendo não precisa de privacidade." no Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595721904066706/?type=3&permPage=1)
+ * [Nos retuite no Twitter](https://twitter.com/hackforprivacy/status/778219464726761472)
 
 -----
 
