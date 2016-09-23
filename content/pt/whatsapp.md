@@ -79,7 +79,7 @@ Sem sombra de dúvida, a única razão para usar o Signal (ou WhatsApp) é falar
 ### Amigos não deixam amigos usarem WhatsApp. Amigos usam Signal
 <img src="/images/whatsapp-friends.png"  style="max-width:300px; margin-left:auto; margin-right:auto; display:block;"/>
 
- * [Compartilhe "Amigos não deixam amigos usar WhatsApp. Amigos usam Signal" no Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
+ * [Compartilhe "Amigos não deixam amigos usarem WhatsApp. Amigos usam Signal" no Facebook](https://www.facebook.com/hackforprivacy/photos/a.1595722034066693.1073741828.1507988156173415/1595955214043375/?type=3)
 
 <div class="hr"></div>
 
